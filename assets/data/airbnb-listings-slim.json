@@ -1,0 +1,6662 @@
+[
+  {
+    "id": "1563562",
+    "name": "Room with big terrace & private bath",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 45,
+    "room_type": "Private room",
+    "latitude": "52.499586830677025",
+    "longitude": "13.34589882667451"
+  },
+  {
+    "id": "7885622",
+    "name": "Spacious room in vibrant F-hain",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 50,
+    "room_type": "Private room",
+    "latitude": "52.514191929150456",
+    "longitude": "13.456734695054609"
+  },
+  {
+    "id": "3393282",
+    "name": "Central & sunny apartment balkony",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 75,
+    "room_type": "Entire home/apt",
+    "latitude": "52.548872817489354",
+    "longitude": "13.36255769672526"
+  },
+  {
+    "id": "14864910",
+    "name": "Großzügiges Altbauzimmer mit asiatischem Flair",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 50,
+    "room_type": "Private room",
+    "latitude": "52.48895019165655",
+    "longitude": "13.362449647584155"
+  },
+  {
+    "id": "16305782",
+    "name": "Gemütliche 1 Zimmer Wohnung",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 45,
+    "room_type": "Entire home/apt",
+    "latitude": "52.47600191126028",
+    "longitude": "13.376304016664529"
+  },
+  {
+    "id": "11883780",
+    "name": "Kreuzberg, Spacious, Quiet, Terrace",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 200,
+    "room_type": "Entire home/apt",
+    "latitude": "52.504301763468845",
+    "longitude": "13.43179878839109"
+  },
+  {
+    "id": "5008123",
+    "name": "Zimmer im Prenzlauer Berg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 26,
+    "room_type": "Private room",
+    "latitude": "52.54616432891355",
+    "longitude": "13.420281036771318"
+  },
+  {
+    "id": "11986645",
+    "name": "Chillout-WG 2015 Vol 2",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 25,
+    "room_type": "Private room",
+    "latitude": "52.518741887017576",
+    "longitude": "13.465561713707562"
+  },
+  {
+    "id": "6841988",
+    "name": "21apart Top Luxury Space incl. BRKF",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 125,
+    "room_type": "Entire home/apt",
+    "latitude": "52.52250834549991",
+    "longitude": "13.38710716177201"
+  },
+  {
+    "id": "15162187",
+    "name": "Design loft with rooftop & pool",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 89,
+    "room_type": "Entire home/apt",
+    "latitude": "52.52765997701875",
+    "longitude": "13.40626147748171"
+  },
+  {
+    "id": "9689519",
+    "name": "Fontane Studio | Kreuzberg Südstern",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 40,
+    "room_type": "Entire home/apt",
+    "latitude": "52.49102058269761",
+    "longitude": "13.406274988631578"
+  },
+  {
+    "id": "17855915",
+    "name": "STUDIO FAMILY FLAT PRENZLAUER BERG",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 75,
+    "room_type": "Entire home/apt",
+    "latitude": "52.54769492712694",
+    "longitude": "13.424876236868405"
+  },
+  {
+    "id": "12728960",
+    "name": "Family House",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 150,
+    "room_type": "Entire home/apt",
+    "latitude": "52.49148645375617",
+    "longitude": "13.389197520535843"
+  },
+  {
+    "id": "43123",
+    "name": "Lux Berlin 1: boutique & design",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 90,
+    "room_type": "Entire home/apt",
+    "latitude": "52.53946252929092",
+    "longitude": "13.408834096612916"
+  },
+  {
+    "id": "982715",
+    "name": "Beautiful bright flat - central",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 65,
+    "room_type": "Entire home/apt",
+    "latitude": "52.51306776956666",
+    "longitude": "13.292734434514879"
+  },
+  {
+    "id": "15860972",
+    "name": "Wohnung in Berlin zentrum,Schloss Strasse!",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 60,
+    "room_type": "Entire home/apt",
+    "latitude": "52.46302590861143",
+    "longitude": "13.339999901991215"
+  },
+  {
+    "id": "15478770",
+    "name": "Single room, perfect located!",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 30,
+    "room_type": "Private room",
+    "latitude": "52.48252223201381",
+    "longitude": "13.433158092658124"
+  },
+  {
+    "id": "15285799",
+    "name": "Gemütliches Gästezimmer in Berlin-Tempelhof",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 25,
+    "room_type": "Private room",
+    "latitude": "52.46710768338139",
+    "longitude": "13.38530037347458"
+  },
+  {
+    "id": "14250936",
+    "name": "Cozy Altbau Room With Balcony In Neukölln",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 38,
+    "room_type": "Private room",
+    "latitude": "52.480569647389444",
+    "longitude": "13.429300169955257"
+  },
+  {
+    "id": "8904072",
+    "name": "artsy&cosy in authentic neighborhd",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 62,
+    "room_type": "Entire home/apt",
+    "latitude": "52.55181555359672",
+    "longitude": "13.38271016580345"
+  },
+  {
+    "id": "5216284",
+    "name": "Art Creation // Ostkreuz",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 35,
+    "room_type": "Private room",
+    "latitude": "52.49930154276898",
+    "longitude": "13.464615492397098"
+  },
+  {
+    "id": "17265794",
+    "name": "Cozy Room in Best location of Kreuzberg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 49,
+    "room_type": "Private room",
+    "latitude": "52.494023252748384",
+    "longitude": "13.382883777973188"
+  },
+  {
+    "id": "243057",
+    "name": "rooftop-apartement \"Blueberry Hill\"  Berlin center",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 157,
+    "room_type": "Entire home/apt",
+    "latitude": "52.53067177517643",
+    "longitude": "13.335319849326705"
+  },
+  {
+    "id": "16237757",
+    "name": "4 ROOMS & 110 SQM - DESIGN APARTMENT (I)",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 125,
+    "room_type": "Entire home/apt",
+    "latitude": "52.532093412303524",
+    "longitude": "13.326657056332362"
+  },
+  {
+    "id": "13407286",
+    "name": "20 sqm of Kreuzberg in a cozy appartment",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 45,
+    "room_type": "Private room",
+    "latitude": "52.495057317555705",
+    "longitude": "13.43654689867766"
+  },
+  {
+    "id": "11517189",
+    "name": "Ganze Unterkunft – Bungalow",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 45,
+    "room_type": "Entire home/apt",
+    "latitude": "52.510477464762964",
+    "longitude": "13.623468737913967"
+  },
+  {
+    "id": "6541306",
+    "name": "Room for 4 in the heart of Berlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 80,
+    "room_type": "Entire home/apt",
+    "latitude": "52.53303588430628",
+    "longitude": "13.410434689531389"
+  },
+  {
+    "id": "1939282",
+    "name": "TOP MODERN; TERRACE, JACUZZI, WiFi",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 85,
+    "room_type": "Entire home/apt",
+    "latitude": "52.47908347205096",
+    "longitude": "13.320747275498634"
+  },
+  {
+    "id": "3474302",
+    "name": "Modernes Ferienhaus in Berlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 70,
+    "room_type": "Entire home/apt",
+    "latitude": "52.49308583760202",
+    "longitude": "13.529405404513358"
+  },
+  {
+    "id": "3901129",
+    "name": "1 room in Neukölln / Weserstr.",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 40,
+    "room_type": "Private room",
+    "latitude": "52.48477238085857",
+    "longitude": "13.440857111170509"
+  },
+  {
+    "id": "15000027",
+    "name": "Beautiful Botanic Furnished Room at Neukölln",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 26,
+    "room_type": "Private room",
+    "latitude": "52.47822869199337",
+    "longitude": "13.440035311345117"
+  },
+  {
+    "id": "15761974",
+    "name": "♥ Loveley,  cozy and calm room in Neukölln ♥",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 32,
+    "room_type": "Private room",
+    "latitude": "52.47858675835374",
+    "longitude": "13.422016152161017"
+  },
+  {
+    "id": "16523529",
+    "name": "A unique Oasis in Berlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 35,
+    "room_type": "Private room",
+    "latitude": "52.495434417030495",
+    "longitude": "13.429565569735736"
+  },
+  {
+    "id": "11781519",
+    "name": "Big guest room in Kreuzberg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 45,
+    "room_type": "Private room",
+    "latitude": "52.493944450880846",
+    "longitude": "13.39696204142471"
+  },
+  {
+    "id": "15839576",
+    "name": "Lift& free breakfast-Room in the heart of Kreuzbeg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 39,
+    "room_type": "Private room",
+    "latitude": "52.49738263102923",
+    "longitude": "13.418213726315072"
+  },
+  {
+    "id": "7876845",
+    "name": "One minute walk from Kollwitzplatz",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 50,
+    "room_type": "Private room",
+    "latitude": "52.53624777339603",
+    "longitude": "13.41998608749832"
+  },
+  {
+    "id": "18594441",
+    "name": "4 floor house full equipped with garden + terrace",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 235,
+    "room_type": "Entire home/apt",
+    "latitude": "52.46253573274803",
+    "longitude": "13.311242626713957"
+  },
+  {
+    "id": "17511145",
+    "name": "2 ROOM  APT",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 40,
+    "room_type": "Private room",
+    "latitude": "52.57149815858443",
+    "longitude": "13.410614694207297"
+  },
+  {
+    "id": "12155588",
+    "name": "Central+cosy+spacious - what else?",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 50,
+    "room_type": "Private room",
+    "latitude": "52.513532052218956",
+    "longitude": "13.502218304084964"
+  },
+  {
+    "id": "1346323",
+    "name": "✮ TOP Apartment Potsdamer Platz ✮",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 90,
+    "room_type": "Entire home/apt",
+    "latitude": "52.51023049874957",
+    "longitude": "13.37399146905895"
+  },
+  {
+    "id": "2377736",
+    "name": "Our Guestroom at Potsdamer Platz",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 59,
+    "room_type": "Private room",
+    "latitude": "52.50614224680669",
+    "longitude": "13.376546527765695"
+  },
+  {
+    "id": "13419585",
+    "name": "Sunny central rooftop room in Fhain",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 37,
+    "room_type": "Private room",
+    "latitude": "52.51708204946775",
+    "longitude": "13.456658594374646"
+  },
+  {
+    "id": "15878264",
+    "name": "Top-Location (Hackescher Markt) & Top-Price !!!",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 30,
+    "room_type": "Private room",
+    "latitude": "52.52558806977925",
+    "longitude": "13.395257662647614"
+  },
+  {
+    "id": "727289",
+    "name": "Living in the hotspot in Berlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 59,
+    "room_type": "Private room",
+    "latitude": "52.530663310095065",
+    "longitude": "13.400160126733523"
+  },
+  {
+    "id": "16439215",
+    "name": "In heart of Mitte/Prenzlauer Berg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 99,
+    "room_type": "Entire home/apt",
+    "latitude": "52.53897009094087",
+    "longitude": "13.400791075309755"
+  },
+  {
+    "id": "15447933",
+    "name": "Design-apartment in quiet area near city center",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 80,
+    "room_type": "Private room",
+    "latitude": "52.53755593018226",
+    "longitude": "13.377043061019302"
+  },
+  {
+    "id": "8898622",
+    "name": "Elegant Flat on trendy MITTE street",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 292,
+    "room_type": "Entire home/apt",
+    "latitude": "52.527580135652",
+    "longitude": "13.404333152330434"
+  },
+  {
+    "id": "17478269",
+    "name": "Berlin Mitte",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 61,
+    "room_type": "Entire home/apt",
+    "latitude": "52.53250270310416",
+    "longitude": "13.395166447843112"
+  },
+  {
+    "id": "6827654",
+    "name": "big, cozy room in Friedrichshain",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 25,
+    "room_type": "Private room",
+    "latitude": "52.5237527398307",
+    "longitude": "13.449758987208678"
+  },
+  {
+    "id": "1968442",
+    "name": "Electro Ω Project",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 95,
+    "room_type": "Entire home/apt",
+    "latitude": "52.52608580079689",
+    "longitude": "13.327623068322456"
+  },
+  {
+    "id": "16254081",
+    "name": "URBAN DESIGN APARTMENT (3 ROOMS & 85 SQM) II",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 100,
+    "room_type": "Entire home/apt",
+    "latitude": "52.5321685529125",
+    "longitude": "13.325820091607385"
+  },
+  {
+    "id": "5159914",
+    "name": "Quiet, cozy room in Friedrichshain",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 20,
+    "room_type": "Private room",
+    "latitude": "52.507057147217665",
+    "longitude": "13.454570219066966"
+  },
+  {
+    "id": "8021254",
+    "name": "Skyview Apartment im Sony Center",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 159,
+    "room_type": "Entire home/apt",
+    "latitude": "52.51078749453674",
+    "longitude": "13.372235903383077"
+  },
+  {
+    "id": "7841096",
+    "name": "quiet studio in hip area of Berlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 39,
+    "room_type": "Entire home/apt",
+    "latitude": "52.5061893818632",
+    "longitude": "13.470964423345283"
+  },
+  {
+    "id": "1440278",
+    "name": "TownHouse GuestRoom",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 99,
+    "room_type": "Private room",
+    "latitude": "52.49768222267147",
+    "longitude": "13.471761303142225"
+  },
+  {
+    "id": "7140777",
+    "name": "Large room in the heart of Berlin!",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 39,
+    "room_type": "Private room",
+    "latitude": "52.492053502955706",
+    "longitude": "13.352576710730732"
+  },
+  {
+    "id": "15593222",
+    "name": "Berlin - Rooms (with air conditioning) - Gay Area",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 30,
+    "room_type": "Private room",
+    "latitude": "52.50105857614194",
+    "longitude": "13.350954825382605"
+  },
+  {
+    "id": "17403436",
+    "name": "Nice Room in the \"Heart of Berlin\" Kreuzberg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 39,
+    "room_type": "Private room",
+    "latitude": "52.49352269790452",
+    "longitude": "13.38153594425538"
+  },
+  {
+    "id": "1162367",
+    "name": "Designer Townhouse in central Berlin!",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 109,
+    "room_type": "Entire home/apt",
+    "latitude": "52.53095022814991",
+    "longitude": "13.427234084468544"
+  },
+  {
+    "id": "16153974",
+    "name": "Spacious, light filled room,excellent surroundings",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 29,
+    "room_type": "Private room",
+    "latitude": "52.54640493609874",
+    "longitude": "13.425144074113811"
+  },
+  {
+    "id": "8678997",
+    "name": "stilvolles Townhouse mit Garten mitten in Berlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 275,
+    "room_type": "Entire home/apt",
+    "latitude": "52.52278820694929",
+    "longitude": "13.468082627771855"
+  },
+  {
+    "id": "4182815",
+    "name": "Bonita Casa Souterrain",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 150,
+    "room_type": "Entire home/apt",
+    "latitude": "52.49208810541401",
+    "longitude": "13.392997875950355"
+  },
+  {
+    "id": "567741",
+    "name": "Nice room 15min to the city centre",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 32,
+    "room_type": "Private room",
+    "latitude": "52.45246338672056",
+    "longitude": "13.321654979468317"
+  },
+  {
+    "id": "9027633",
+    "name": "Wohlfühlen in Berlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 65,
+    "room_type": "Entire home/apt",
+    "latitude": "52.451467689908625",
+    "longitude": "13.323396712653857"
+  },
+  {
+    "id": "11350802",
+    "name": "Beautiful and cozy room",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 35,
+    "room_type": "Private room",
+    "latitude": "52.46112180720531",
+    "longitude": "13.343230685230187"
+  },
+  {
+    "id": "4996201",
+    "name": "lovely, green Berlin at it's best",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 40,
+    "room_type": "Private room",
+    "latitude": "52.42827649035829",
+    "longitude": "13.234278037259244"
+  },
+  {
+    "id": "17119592",
+    "name": "Wunderschöne Altbau-Wohnung im Herzen Berlins",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 150,
+    "room_type": "Entire home/apt",
+    "latitude": "52.48154923037913",
+    "longitude": "13.347851207440101"
+  },
+  {
+    "id": "14257187",
+    "name": "Gästezimmer für nette Besucher",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 54,
+    "room_type": "Private room",
+    "latitude": "52.52434756884488",
+    "longitude": "13.385260880460926"
+  },
+  {
+    "id": "493072",
+    "name": "1 Room in Berlin Center with Artist",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 44,
+    "room_type": "Private room",
+    "latitude": "52.52917197299693",
+    "longitude": "13.402893833411602"
+  },
+  {
+    "id": "1135006",
+    "name": "LOVELY APARTMENT AT LINIENSTRASSE",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 63,
+    "room_type": "Entire home/apt",
+    "latitude": "52.527315185873746",
+    "longitude": "13.412374106428897"
+  },
+  {
+    "id": "15275440",
+    "name": "Peaceful Penthouse - Berlin Mitte",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 55,
+    "room_type": "Private room",
+    "latitude": "52.52848601374608",
+    "longitude": "13.379016974106337"
+  },
+  {
+    "id": "14133569",
+    "name": "Feel the City",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 123,
+    "room_type": "Entire home/apt",
+    "latitude": "52.53134298690842",
+    "longitude": "13.385766622784766"
+  },
+  {
+    "id": "6207145",
+    "name": "Light apartment in Prenzlauer Berg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 64,
+    "room_type": "Entire home/apt",
+    "latitude": "52.53828023684765",
+    "longitude": "13.400764582251663"
+  },
+  {
+    "id": "935026",
+    "name": "Spacious apartment with a nice view",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 89,
+    "room_type": "Entire home/apt",
+    "latitude": "52.51581896116397",
+    "longitude": "13.454742209442585"
+  },
+  {
+    "id": "6933579",
+    "name": "Bright + Modern room in Mitte",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 50,
+    "room_type": "Private room",
+    "latitude": "52.503389371122665",
+    "longitude": "13.416853424266463"
+  },
+  {
+    "id": "14003163",
+    "name": "Modern House with garden in popular East Berlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 29,
+    "room_type": "Private room",
+    "latitude": "52.51997240395735",
+    "longitude": "13.49008466455951"
+  },
+  {
+    "id": "15545577",
+    "name": "Beautiful flat in Neukölln/Kreuzberg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 50,
+    "room_type": "Entire home/apt",
+    "latitude": "52.48692984001229",
+    "longitude": "13.440770631017415"
+  },
+  {
+    "id": "13070266",
+    "name": "Gemütliches Zimmer mit Bad + Küche",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 24,
+    "room_type": "Private room",
+    "latitude": "52.468223438338384",
+    "longitude": "13.585632451040988"
+  },
+  {
+    "id": "8027365",
+    "name": "Comfortable and well located Flat",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 40,
+    "room_type": "Private room",
+    "latitude": "52.52576363854415",
+    "longitude": "13.47593268489075"
+  },
+  {
+    "id": "2379229",
+    "name": "Vermiete ein schönes Altbau-Zimmer",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 38,
+    "room_type": "Private room",
+    "latitude": "52.47283349847252",
+    "longitude": "13.296649154914041"
+  },
+  {
+    "id": "3799831",
+    "name": "Beautiful room in a stylish flat",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 35,
+    "room_type": "Private room",
+    "latitude": "52.54771088486728",
+    "longitude": "13.348738318260633"
+  },
+  {
+    "id": "15696913",
+    "name": "elegant and exclusive apartment in lively Neukölln",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 67,
+    "room_type": "Entire home/apt",
+    "latitude": "52.482658485390004",
+    "longitude": "13.435761936004612"
+  },
+  {
+    "id": "17603314",
+    "name": "stylish comfortable studio in Neukölln",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 59,
+    "room_type": "Entire home/apt",
+    "latitude": "52.46807153425243",
+    "longitude": "13.428461943422375"
+  },
+  {
+    "id": "16640382",
+    "name": "4 small walls in the heart of Friedrichshain!",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 45,
+    "room_type": "Private room",
+    "latitude": "52.512651359937415",
+    "longitude": "13.467845089182786"
+  },
+  {
+    "id": "7624671",
+    "name": "Cosy & central flat in Berlin Mitte",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 79,
+    "room_type": "Entire home/apt",
+    "latitude": "52.53922859185431",
+    "longitude": "13.399403227660132"
+  },
+  {
+    "id": "12499471",
+    "name": "Ruhig u. mittendrin Pankow / P Berg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 40,
+    "room_type": "Private room",
+    "latitude": "52.562431682406796",
+    "longitude": "13.397676381775035"
+  },
+  {
+    "id": "14909967",
+    "name": "Ruhiges Zimmer Nähe Airport Tegel TXL",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 22,
+    "room_type": "Private room",
+    "latitude": "52.54024103718888",
+    "longitude": "13.274136048861235"
+  },
+  {
+    "id": "11536882",
+    "name": "Cosy room in newly renovated Kreuzberg flat",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 35,
+    "room_type": "Private room",
+    "latitude": "52.50023668528798",
+    "longitude": "13.403994308189953"
+  },
+  {
+    "id": "16807038",
+    "name": "Beautiful room, huge flat, top location (P-Berg)",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 39,
+    "room_type": "Private room",
+    "latitude": "52.54064689053489",
+    "longitude": "13.410398223181279"
+  },
+  {
+    "id": "59249",
+    "name": "Lux Berlin 2: luxury & design",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 90,
+    "room_type": "Entire home/apt",
+    "latitude": "52.54088868001604",
+    "longitude": "13.409448814157397"
+  },
+  {
+    "id": "11450688",
+    "name": "ruhiges, freundliches Zimmer in bester Lage",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 29,
+    "room_type": "Private room",
+    "latitude": "52.48343630616996",
+    "longitude": "13.428636251404896"
+  },
+  {
+    "id": "8026172",
+    "name": "Modern Penthouse Studio, cosy quiet and bright",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 60,
+    "room_type": "Entire home/apt",
+    "latitude": "52.469746199784986",
+    "longitude": "13.433155797759289"
+  },
+  {
+    "id": "14852373",
+    "name": "Waterfront loft-style apartment in Kreuzberg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 150,
+    "room_type": "Entire home/apt",
+    "latitude": "52.50112776682908",
+    "longitude": "13.442127793443028"
+  },
+  {
+    "id": "9939951",
+    "name": "Schönes Zimmer mitten über den Dächern von Berlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 37,
+    "room_type": "Private room",
+    "latitude": "52.54438062783907",
+    "longitude": "13.414900571769982"
+  },
+  {
+    "id": "11119527",
+    "name": "Quiet cozy fireplace apartment",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 95,
+    "room_type": "Entire home/apt",
+    "latitude": "52.542448234380004",
+    "longitude": "13.41753903060289"
+  },
+  {
+    "id": "5673777",
+    "name": "The Heart of Berlin - Sweet Mitte!",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 45,
+    "room_type": "Private room",
+    "latitude": "52.52440602434524",
+    "longitude": "13.40091380281423"
+  },
+  {
+    "id": "13320037",
+    "name": "Beautiful APARTMENT IN MITTE - Apt. 5",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 169,
+    "room_type": "Entire home/apt",
+    "latitude": "52.52896175996799",
+    "longitude": "13.380685693889722"
+  },
+  {
+    "id": "11483775",
+    "name": "Luxury Penthouse 3 Bed+Roof Terrac2",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 300,
+    "room_type": "Entire home/apt",
+    "latitude": "52.532561559586256",
+    "longitude": "13.382214650695708"
+  },
+  {
+    "id": "16453029",
+    "name": "Klein aber fein mitten in Berlin! Moabit am Fluss.",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 20,
+    "room_type": "Private room",
+    "latitude": "52.520346223045706",
+    "longitude": "13.337522689837721"
+  },
+  {
+    "id": "5978444",
+    "name": "Beautiful Place Towels Coffee Tea & Cats included",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 39,
+    "room_type": "Private room",
+    "latitude": "52.533687672709895",
+    "longitude": "13.352995453910378"
+  },
+  {
+    "id": "772627",
+    "name": "40,5m² Apartment close by Richard Sqare Neukölln",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 55,
+    "room_type": "Entire home/apt",
+    "latitude": "52.477001143911316",
+    "longitude": "13.442386142511518"
+  },
+  {
+    "id": "10507195",
+    "name": "Art Noveau Appartment",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 130,
+    "room_type": "Entire home/apt",
+    "latitude": "52.48827713369317",
+    "longitude": "13.377475143227104"
+  },
+  {
+    "id": "4982472",
+    "name": "Nice quiet room in Treptow",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 30,
+    "room_type": "Private room",
+    "latitude": "52.47024802583149",
+    "longitude": "13.493166356047857"
+  },
+  {
+    "id": "17234680",
+    "name": "Seperated Basement-Flat in a house + gardenterrace",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 55,
+    "room_type": "Entire home/apt",
+    "latitude": "52.46329218393045",
+    "longitude": "13.311435204189728"
+  },
+  {
+    "id": "15332010",
+    "name": "3 ROOM NEW HARDWOOD FLOOR APARTMENT",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 69,
+    "room_type": "Entire home/apt",
+    "latitude": "52.47785361584917",
+    "longitude": "13.320672738710911"
+  },
+  {
+    "id": "16680263",
+    "name": "Zwei Zimmer, Küche, Bad :-)",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 65,
+    "room_type": "Entire home/apt",
+    "latitude": "52.46789340400914",
+    "longitude": "13.585869915707931"
+  },
+  {
+    "id": "2161762",
+    "name": "Zentral im Kiez - Berlin/Victoria",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 36,
+    "room_type": "Private room",
+    "latitude": "52.504588885735444",
+    "longitude": "13.483781564661335"
+  },
+  {
+    "id": "10423394",
+    "name": "Cocoon Rooms Berlin Schöneberg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 120,
+    "room_type": "Entire home/apt",
+    "latitude": "52.487806034176266",
+    "longitude": "13.362869309865959"
+  },
+  {
+    "id": "14661183",
+    "name": "Lovely Room in Friedrichshain",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 25,
+    "room_type": "Private room",
+    "latitude": "52.50152386500796",
+    "longitude": "13.463880832775871"
+  },
+  {
+    "id": "18373517",
+    "name": "Cosy room for 2-4 persons at Checkpoint Charlie",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 59,
+    "room_type": "Private room",
+    "latitude": "52.50931814203086",
+    "longitude": "13.393412107539225"
+  },
+  {
+    "id": "10063678",
+    "name": "Wohnung in Alte City von Berlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 49,
+    "room_type": "Entire home/apt",
+    "latitude": "52.51403724060397",
+    "longitude": "13.382176157776625"
+  },
+  {
+    "id": "344856",
+    "name": "Too good to be true - in Friedrichshain Berlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 60,
+    "room_type": "Entire home/apt",
+    "latitude": "52.51320924265306",
+    "longitude": "13.458254420774102"
+  },
+  {
+    "id": "12296037",
+    "name": "Cozy and sunny Room in trendy area!",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 50,
+    "room_type": "Private room",
+    "latitude": "52.5132452064842",
+    "longitude": "13.463287442593852"
+  },
+  {
+    "id": "9895016",
+    "name": "Room in Friedrichshain-Treptow",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 25,
+    "room_type": "Private room",
+    "latitude": "52.499682353464465",
+    "longitude": "13.464747305560945"
+  },
+  {
+    "id": "1829165",
+    "name": "lovely room in nice flat with cats in Neukölln",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 33,
+    "room_type": "Private room",
+    "latitude": "52.47178631104802",
+    "longitude": "13.441710308448235"
+  },
+  {
+    "id": "15641693",
+    "name": "Nice quiet room in the heart of Berlin.",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 32,
+    "room_type": "Private room",
+    "latitude": "52.5172744022687",
+    "longitude": "13.430558345404602"
+  },
+  {
+    "id": "768616",
+    "name": "Over the roofs of Berlin with Lift",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 48,
+    "room_type": "Entire home/apt",
+    "latitude": "52.54425826876337",
+    "longitude": "13.424352416139087"
+  },
+  {
+    "id": "161425",
+    "name": "Cozy Apartment at Schönhauser Allee",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 70,
+    "room_type": "Entire home/apt",
+    "latitude": "52.54566761341074",
+    "longitude": "13.414469175064474"
+  },
+  {
+    "id": "13760475",
+    "name": "Modern, clean and comfortable Apartment.",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 69,
+    "room_type": "Entire home/apt",
+    "latitude": "52.524039357020825",
+    "longitude": "13.450028111655822"
+  },
+  {
+    "id": "254589",
+    "name": "Heated Waterbed 50% becalmed,organic breakfast",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 33,
+    "room_type": "Private room",
+    "latitude": "52.52372243405475",
+    "longitude": "13.44924692044347"
+  },
+  {
+    "id": "17991884",
+    "name": "Chillout-WG-2017 - Entspannungszimmer",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 24,
+    "room_type": "Private room",
+    "latitude": "52.51896650179016",
+    "longitude": "13.465964585433365"
+  },
+  {
+    "id": "11405278",
+    "name": "Luxury Mitte Penthouse 3Bed, 3Bath",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 300,
+    "room_type": "Entire home/apt",
+    "latitude": "52.53250053697443",
+    "longitude": "13.380882683054047"
+  },
+  {
+    "id": "598982",
+    "name": "Altbau Kreuzberg Wienerstrasse",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 120,
+    "room_type": "Entire home/apt",
+    "latitude": "52.495711124705615",
+    "longitude": "13.434313096921802"
+  },
+  {
+    "id": "72079",
+    "name": "Italian Design at Kudamm ,WiFi DSL free",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 85,
+    "room_type": "Entire home/apt",
+    "latitude": "52.50780325949872",
+    "longitude": "13.318707261044278"
+  },
+  {
+    "id": "11571154",
+    "name": "Sunny home, close to Kurfürstendamm",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 38,
+    "room_type": "Private room",
+    "latitude": "52.50683878488867",
+    "longitude": "13.316965654269287"
+  },
+  {
+    "id": "11057227",
+    "name": "Ruhig gelegenes Zimmer in Ku'damm-Nähe",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 39,
+    "room_type": "Private room",
+    "latitude": "52.49522602733321",
+    "longitude": "13.297357289271352"
+  },
+  {
+    "id": "4309197",
+    "name": "bright+central room friedrichshain",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 35,
+    "room_type": "Private room",
+    "latitude": "52.51069559078666",
+    "longitude": "13.450758808087755"
+  },
+  {
+    "id": "5300795",
+    "name": "Perfect Place @ Gendarmenmarkt",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 89,
+    "room_type": "Entire home/apt",
+    "latitude": "52.50849635689573",
+    "longitude": "13.395026346572267"
+  },
+  {
+    "id": "5528697",
+    "name": "Very central room",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 50,
+    "room_type": "Private room",
+    "latitude": "52.49611253895358",
+    "longitude": "13.35996861458395"
+  },
+  {
+    "id": "7112500",
+    "name": "Stylish flat in popular Neukölln",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 57,
+    "room_type": "Entire home/apt",
+    "latitude": "52.46447742738542",
+    "longitude": "13.425177479461697"
+  },
+  {
+    "id": "4027687",
+    "name": "Beautiful brandnew 3 room apartment",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 200,
+    "room_type": "Entire home/apt",
+    "latitude": "52.493725128674335",
+    "longitude": "13.412744655498898"
+  },
+  {
+    "id": "1209221",
+    "name": "Bright Spot in the East of the city",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 30,
+    "room_type": "Private room",
+    "latitude": "52.55590297867218",
+    "longitude": "13.42030721385306"
+  },
+  {
+    "id": "5261097",
+    "name": "BIG room in P.Berg,private bathroom",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 48,
+    "room_type": "Private room",
+    "latitude": "52.5485020914891",
+    "longitude": "13.418119877357496"
+  },
+  {
+    "id": "4876336",
+    "name": "Luxury Artist Loft",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 230,
+    "room_type": "Entire home/apt",
+    "latitude": "52.534983268257",
+    "longitude": "13.420508188830311"
+  },
+  {
+    "id": "16561947",
+    "name": "Living in the most beautiful street of Berlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 37,
+    "room_type": "Private room",
+    "latitude": "52.53823027657438",
+    "longitude": "13.411516333801362"
+  },
+  {
+    "id": "15857997",
+    "name": "Beautiful room, huge flat, top location (P-Berg)",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 37,
+    "room_type": "Private room",
+    "latitude": "52.5405267403521",
+    "longitude": "13.411948854214568"
+  },
+  {
+    "id": "3948713",
+    "name": "Tolles Studio mit Loft (Nonsmoking)",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 53,
+    "room_type": "Entire home/apt",
+    "latitude": "52.49695664200115",
+    "longitude": "13.43473508488411"
+  },
+  {
+    "id": "4103180",
+    "name": "Large room with private bathroom",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 49,
+    "room_type": "Private room",
+    "latitude": "52.532437917957964",
+    "longitude": "13.423208512590714"
+  },
+  {
+    "id": "2463908",
+    "name": "1 room for max . 2 people",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 50,
+    "room_type": "Private room",
+    "latitude": "52.53021151622578",
+    "longitude": "13.436509101937196"
+  },
+  {
+    "id": "13345985",
+    "name": "Quiet room in a house, close to FU and metro",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 19,
+    "room_type": "Private room",
+    "latitude": "52.46437007804901",
+    "longitude": "13.311227063740963"
+  },
+  {
+    "id": "187326",
+    "name": "Cozy Apartment with sun terrace",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 59,
+    "room_type": "Entire home/apt",
+    "latitude": "52.444094109047846",
+    "longitude": "13.294342076502476"
+  },
+  {
+    "id": "14195566",
+    "name": "Nice floor in Maisonette with 2 bedrooms",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 36,
+    "room_type": "Entire home/apt",
+    "latitude": "52.43706211354014",
+    "longitude": "13.30692858181967"
+  },
+  {
+    "id": "10918998",
+    "name": "SUNNY ROOFTOP with SOUL and Balcony",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 90,
+    "room_type": "Entire home/apt",
+    "latitude": "52.48202629097376",
+    "longitude": "13.434362614024568"
+  },
+  {
+    "id": "15324397",
+    "name": "room in central & quiet apartment",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 20,
+    "room_type": "Private room",
+    "latitude": "52.52779445529863",
+    "longitude": "13.396392731758604"
+  },
+  {
+    "id": "1120265",
+    "name": "Central studio at Hackescher Markt",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 25,
+    "room_type": "Entire home/apt",
+    "latitude": "52.522181517693156",
+    "longitude": "13.405132996481026"
+  },
+  {
+    "id": "15473840",
+    "name": "Design loft in the heart of Mitte + rooftop & pool",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 99,
+    "room_type": "Entire home/apt",
+    "latitude": "52.52818157275294",
+    "longitude": "13.406499967428044"
+  },
+  {
+    "id": "3641771",
+    "name": "Kreuzberg artist house",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 179,
+    "room_type": "Entire home/apt",
+    "latitude": "52.49744257453843",
+    "longitude": "13.420351593230155"
+  },
+  {
+    "id": "12015708",
+    "name": "3bed,2bath huge flat in Pberg(col)2",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 160,
+    "room_type": "Entire home/apt",
+    "latitude": "52.542978698210185",
+    "longitude": "13.420883369897071"
+  },
+  {
+    "id": "2623184",
+    "name": "Room in Charming Flat",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 30,
+    "room_type": "Private room",
+    "latitude": "52.521658420244805",
+    "longitude": "13.33667333893073"
+  },
+  {
+    "id": "6124211",
+    "name": "sunny room with balcony, 15mins to the city-center",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 38,
+    "room_type": "Private room",
+    "latitude": "52.555631435099684",
+    "longitude": "13.341930364024693"
+  },
+  {
+    "id": "16487175",
+    "name": "micro design studio overlooking Berlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 56,
+    "room_type": "Private room",
+    "latitude": "52.46846256802407",
+    "longitude": "13.431860955011338"
+  },
+  {
+    "id": "4416664",
+    "name": "Luxus direkt an der Spree Eastside",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 54,
+    "room_type": "Entire home/apt",
+    "latitude": "52.507281137433324",
+    "longitude": "13.435851090055163"
+  },
+  {
+    "id": "17230988",
+    "name": "Kingsizebed / quite&green/ near shopping paradies",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 21,
+    "room_type": "Private room",
+    "latitude": "52.46660918283212",
+    "longitude": "13.31953694211412"
+  },
+  {
+    "id": "11409008",
+    "name": "*** cosy and homely - WiFi ***",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 50,
+    "room_type": "Entire home/apt",
+    "latitude": "52.44936594683884",
+    "longitude": "13.343912474033175"
+  },
+  {
+    "id": "8536937",
+    "name": "Charmantes Altbauzimmer für zwei",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 38,
+    "room_type": "Private room",
+    "latitude": "52.553773373418764",
+    "longitude": "13.434962116093715"
+  },
+  {
+    "id": "6924399",
+    "name": "Cozy Room in Kreuzberg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 69,
+    "room_type": "Private room",
+    "latitude": "52.497868211460904",
+    "longitude": "13.438669441872875"
+  },
+  {
+    "id": "181160",
+    "name": "KINOMUSEUM",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 45,
+    "room_type": "Private room",
+    "latitude": "52.49172695564685",
+    "longitude": "13.421000419836647"
+  },
+  {
+    "id": "13880858",
+    "name": "Sunny Balcony Room with Park View",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 30,
+    "room_type": "Private room",
+    "latitude": "52.49304149801809",
+    "longitude": "13.381665071368266"
+  },
+  {
+    "id": "14702251",
+    "name": "Beautiful, central Apartment in Prenzlauer Berg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 70,
+    "room_type": "Entire home/apt",
+    "latitude": "52.52989545386299",
+    "longitude": "13.449269078875616"
+  },
+  {
+    "id": "13593823",
+    "name": "center of Berlin but quiet and elegant",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 75,
+    "room_type": "Private room",
+    "latitude": "52.53297843393868",
+    "longitude": "13.42319153318105"
+  },
+  {
+    "id": "878074",
+    "name": "QUIET COZY DESIGN CINEMA FLAT IN WINSKIEZ",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 90,
+    "room_type": "Entire home/apt",
+    "latitude": "52.52957500902902",
+    "longitude": "13.422644259812818"
+  },
+  {
+    "id": "2301311",
+    "name": "Sun flooded cosy room.",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 39,
+    "room_type": "Private room",
+    "latitude": "52.51396746274729",
+    "longitude": "13.458333750397783"
+  },
+  {
+    "id": "8137765",
+    "name": "My favourite flat on earth",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 95,
+    "room_type": "Entire home/apt",
+    "latitude": "52.50938339031102",
+    "longitude": "13.45499222134991"
+  },
+  {
+    "id": "16631550",
+    "name": "Ruhiges,helles Zi.in zentraler Lage",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 21,
+    "room_type": "Private room",
+    "latitude": "52.51206843739634",
+    "longitude": "13.46591817189551"
+  },
+  {
+    "id": "12828747",
+    "name": "Welcome to Berlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 50,
+    "room_type": "Private room",
+    "latitude": "52.50934881502211",
+    "longitude": "13.45538835099154"
+  },
+  {
+    "id": "9731937",
+    "name": "Chillout-WG-2015",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 27,
+    "room_type": "Private room",
+    "latitude": "52.51997895598269",
+    "longitude": "13.465171634939246"
+  },
+  {
+    "id": "15927481",
+    "name": "Cosy room with balcony in Kreuzberg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 50,
+    "room_type": "Private room",
+    "latitude": "52.501987637059074",
+    "longitude": "13.427588909943106"
+  },
+  {
+    "id": "3854511",
+    "name": "Comfy Bed&Breakfast+Bike in Berlin Wedding",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 28,
+    "room_type": "Private room",
+    "latitude": "52.55037970274428",
+    "longitude": "13.371778575877945"
+  },
+  {
+    "id": "4556404",
+    "name": "Lovely home with big kitchen",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 84,
+    "room_type": "Entire home/apt",
+    "latitude": "52.53276403013756",
+    "longitude": "13.346191105146188"
+  },
+  {
+    "id": "5115511",
+    "name": "90sqm-next to Museum Is./Dom/Alex",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 285,
+    "room_type": "Entire home/apt",
+    "latitude": "52.51837749387272",
+    "longitude": "13.403030356563338"
+  },
+  {
+    "id": "5281256",
+    "name": "Air conditioning 2-bedroom flat",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 69,
+    "room_type": "Entire home/apt",
+    "latitude": "52.49120842386967",
+    "longitude": "13.345382685441669"
+  },
+  {
+    "id": "6704629",
+    "name": "Cozy room in the heart of Berlin!",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 38,
+    "room_type": "Private room",
+    "latitude": "52.49396900038354",
+    "longitude": "13.35105448378914"
+  },
+  {
+    "id": "2307105",
+    "name": "Charm in Neukoelln close Tempelhof Field",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 36,
+    "room_type": "Entire home/apt",
+    "latitude": "52.46807272306754",
+    "longitude": "13.422909484016614"
+  },
+  {
+    "id": "15467095",
+    "name": "Charmantes Zimmer in BERLIN RUDOW",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 40,
+    "room_type": "Private room",
+    "latitude": "52.43608271472683",
+    "longitude": "13.487870032224526"
+  },
+  {
+    "id": "10226031",
+    "name": "Contemporary Studio",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 107,
+    "room_type": "Entire home/apt",
+    "latitude": "52.500158582370766",
+    "longitude": "13.368744827590529"
+  },
+  {
+    "id": "15039563",
+    "name": "Calm room, big terrace in Berlin Charlottenburg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 55,
+    "room_type": "Private room",
+    "latitude": "52.51259999611221",
+    "longitude": "13.316430552738623"
+  },
+  {
+    "id": "14932414",
+    "name": "Perfect location in Friedrichshain + own bathroom",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 30,
+    "room_type": "Private room",
+    "latitude": "52.50026706822462",
+    "longitude": "13.4581302025361"
+  },
+  {
+    "id": "9355457",
+    "name": "Cozy and quiet in lively area 1br",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 29,
+    "room_type": "Entire home/apt",
+    "latitude": "52.50874696603043",
+    "longitude": "13.454827385263213"
+  },
+  {
+    "id": "12424003",
+    "name": "Minimalistic  In Top Youth location",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 54,
+    "room_type": "Private room",
+    "latitude": "52.51399812075909",
+    "longitude": "13.447288838437153"
+  },
+  {
+    "id": "8795229",
+    "name": "Big room in Berlin center with private bath",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 55,
+    "room_type": "Private room",
+    "latitude": "52.53753490440002",
+    "longitude": "13.378114388492966"
+  },
+  {
+    "id": "83614",
+    "name": "Spacious & Elegant Flat, BEST AREA",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 96,
+    "room_type": "Entire home/apt",
+    "latitude": "52.54621993958731",
+    "longitude": "13.417857494605345"
+  },
+  {
+    "id": "10122398",
+    "name": "Potsdamer Platz-Top Spot Studio 2",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 60,
+    "room_type": "Entire home/apt",
+    "latitude": "52.503334659005326",
+    "longitude": "13.377480899797417"
+  },
+  {
+    "id": "12059821",
+    "name": "Lakehouse, private Dock, 30 min. to Downtown",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 79,
+    "room_type": "Entire home/apt",
+    "latitude": "52.468114439621566",
+    "longitude": "13.116319167846804"
+  },
+  {
+    "id": "16632030",
+    "name": "Nice cosy double-room",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 25,
+    "room_type": "Private room",
+    "latitude": "52.4699147920094",
+    "longitude": "13.5870900865914"
+  },
+  {
+    "id": "7429427",
+    "name": "ESCAPE THE ORDINARY - unique & best located",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 35,
+    "room_type": "Private room",
+    "latitude": "52.53155469861352",
+    "longitude": "13.419142367407364"
+  },
+  {
+    "id": "13471238",
+    "name": "The YourRopean Room",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 27,
+    "room_type": "Private room",
+    "latitude": "52.470108721400095",
+    "longitude": "13.436963354107139"
+  },
+  {
+    "id": "15498712",
+    "name": "gemütliches Zimmer in Neukölln",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 28,
+    "room_type": "Private room",
+    "latitude": "52.48161368048783",
+    "longitude": "13.429109783674633"
+  },
+  {
+    "id": "5906473",
+    "name": "Family-apartment with views",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 109,
+    "room_type": "Entire home/apt",
+    "latitude": "52.510534596213965",
+    "longitude": "13.460241641459714"
+  },
+  {
+    "id": "16172185",
+    "name": "Luxus Haus mit Pool am Rand von Berlin 260 qm",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 100,
+    "room_type": "Entire home/apt",
+    "latitude": "52.61843861967212",
+    "longitude": "13.22531497797733"
+  },
+  {
+    "id": "2422564",
+    "name": "Design Space with Terrace and Bike",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 38,
+    "room_type": "Private room",
+    "latitude": "52.55002007679195",
+    "longitude": "13.435685917954162"
+  },
+  {
+    "id": "16269075",
+    "name": "Very chic apartment right at Kufürstendamm!",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 89,
+    "room_type": "Entire home/apt",
+    "latitude": "52.49917887793935",
+    "longitude": "13.323906180304832"
+  },
+  {
+    "id": "12017155",
+    "name": "Spacious room 27 sqm at Schöneberg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 40,
+    "room_type": "Private room",
+    "latitude": "52.48765244420266",
+    "longitude": "13.33712445162126"
+  },
+  {
+    "id": "46161",
+    "name": "Design-Room in Mitte/PrenzlauerBerg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 50,
+    "room_type": "Private room",
+    "latitude": "52.53254194634929",
+    "longitude": "13.409825660460802"
+  },
+  {
+    "id": "3094376",
+    "name": "Bright and Spacious, Kollwitzplatz",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 195,
+    "room_type": "Entire home/apt",
+    "latitude": "52.536426508593124",
+    "longitude": "13.419272951207784"
+  },
+  {
+    "id": "7705479",
+    "name": "Awesome room right in the heart of Berlin!",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 50,
+    "room_type": "Private room",
+    "latitude": "52.52214240489751",
+    "longitude": "13.402303667050179"
+  },
+  {
+    "id": "14311032",
+    "name": "Luxury and convenience in the Prime area in Berlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 132,
+    "room_type": "Entire home/apt",
+    "latitude": "52.5223300702816",
+    "longitude": "13.386230919669186"
+  },
+  {
+    "id": "385059",
+    "name": "Modern design, breakfast & balcony",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 29,
+    "room_type": "Private room",
+    "latitude": "52.53081295615252",
+    "longitude": "13.388318199938604"
+  },
+  {
+    "id": "9938743",
+    "name": "Beautiful, cosy room",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 35,
+    "room_type": "Private room",
+    "latitude": "52.51522106224309",
+    "longitude": "13.459111447206059"
+  },
+  {
+    "id": "1137463",
+    "name": "clean, spacious, quiet",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 95,
+    "room_type": "Entire home/apt",
+    "latitude": "52.50245177493145",
+    "longitude": "13.417687870033697"
+  },
+  {
+    "id": "367195",
+    "name": "Berlin Mitte, Hackescher Markt",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 49,
+    "room_type": "Private room",
+    "latitude": "52.526016714920395",
+    "longitude": "13.4094283330285"
+  },
+  {
+    "id": "16153317",
+    "name": "Welcome to Charly´s home!",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 50,
+    "room_type": "Private room",
+    "latitude": "52.500606185141436",
+    "longitude": "13.417108842169126"
+  },
+  {
+    "id": "2849796",
+    "name": "Cool Friedrichshain + Garden View",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 49,
+    "room_type": "Entire home/apt",
+    "latitude": "52.513150467874624",
+    "longitude": "13.446596399556386"
+  },
+  {
+    "id": "13166569",
+    "name": "Quiet Room in Huge Altbau Flat in Berlin Kreuzberg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 85,
+    "room_type": "Private room",
+    "latitude": "52.494729756696685",
+    "longitude": "13.393657523938607"
+  },
+  {
+    "id": "13806773",
+    "name": "Private Room in a house, near FU and metro",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 24,
+    "room_type": "Private room",
+    "latitude": "52.46266275482348",
+    "longitude": "13.312469878324414"
+  },
+  {
+    "id": "13424919",
+    "name": "cozy room in a house near FU and metro",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 21,
+    "room_type": "Private room",
+    "latitude": "52.46439667009178",
+    "longitude": "13.310956169317246"
+  },
+  {
+    "id": "7677367",
+    "name": "Vacation rentals in the Green Tempelhof",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 57,
+    "room_type": "Entire home/apt",
+    "latitude": "52.408473840679456",
+    "longitude": "13.417648323095381"
+  },
+  {
+    "id": "11782446",
+    "name": "Lovely room in heart of Neukölln.",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 35,
+    "room_type": "Private room",
+    "latitude": "52.467602180106844",
+    "longitude": "13.432610972294285"
+  },
+  {
+    "id": "14331545",
+    "name": "Cosy room (priv. bathroom), Altbau Friedrichshain",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 45,
+    "room_type": "Private room",
+    "latitude": "52.508962543711704",
+    "longitude": "13.467442180165875"
+  },
+  {
+    "id": "1108151",
+    "name": "Lovely room in wonderful apartment",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 155,
+    "room_type": "Private room",
+    "latitude": "52.51498963165559",
+    "longitude": "13.459308811562169"
+  },
+  {
+    "id": "4027713",
+    "name": "Akazien Residenz Apartment Berlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 215,
+    "room_type": "Entire home/apt",
+    "latitude": "52.4858048561666",
+    "longitude": "13.355526523551875"
+  },
+  {
+    "id": "1128470",
+    "name": "Gendarmerie Fantasy Room in centre",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 34,
+    "room_type": "Private room",
+    "latitude": "52.509614241834655",
+    "longitude": "13.405494340292053"
+  },
+  {
+    "id": "2689713",
+    "name": "Berlin@its best: central,quiet&cozy",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 68,
+    "room_type": "Entire home/apt",
+    "latitude": "52.522806658583804",
+    "longitude": "13.40490679302966"
+  },
+  {
+    "id": "14167097",
+    "name": "Extremely central room in Berlin!",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 54,
+    "room_type": "Private room",
+    "latitude": "52.52125368391813",
+    "longitude": "13.405288381861983"
+  },
+  {
+    "id": "3717751",
+    "name": "UNIQUE GARDENROOM | BERLIN MITTE | with garden",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 49,
+    "room_type": "Entire home/apt",
+    "latitude": "52.53584800057549",
+    "longitude": "13.393456899250982"
+  },
+  {
+    "id": "2394897",
+    "name": "SUNNY hideaway BALCONY lovely area",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 94,
+    "room_type": "Entire home/apt",
+    "latitude": "52.53439795653766",
+    "longitude": "13.406028670800572"
+  },
+  {
+    "id": "15797331",
+    "name": "Cozy doublebed room by Mauerpark",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 30,
+    "room_type": "Private room",
+    "latitude": "52.54796360158917",
+    "longitude": "13.4022013042821"
+  },
+  {
+    "id": "15022117",
+    "name": "Central, Bright Berlin Apartment",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 39,
+    "room_type": "Private room",
+    "latitude": "52.52851628891292",
+    "longitude": "13.44938199699322"
+  },
+  {
+    "id": "5494100",
+    "name": "apartment21 Luxury Apartment Mitte",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 220,
+    "room_type": "Entire home/apt",
+    "latitude": "52.531696284818224",
+    "longitude": "13.407415680677591"
+  },
+  {
+    "id": "1757613",
+    "name": "Quiet and pretty studio in F'hain",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 60,
+    "room_type": "Entire home/apt",
+    "latitude": "52.513294384827375",
+    "longitude": "13.45989113118338"
+  },
+  {
+    "id": "16760803",
+    "name": "Friedrichshain Center, Charming 1 Bdr.",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 45,
+    "room_type": "Private room",
+    "latitude": "52.51379842902114",
+    "longitude": "13.456144956467874"
+  },
+  {
+    "id": "363454",
+    "name": "Apartment Berlin Kreuzberg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 82,
+    "room_type": "Entire home/apt",
+    "latitude": "52.493230157068176",
+    "longitude": "13.411829873046429"
+  },
+  {
+    "id": "3088148",
+    "name": "Sunny room in best location",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 27,
+    "room_type": "Private room",
+    "latitude": "52.50121413829487",
+    "longitude": "13.427566526560604"
+  },
+  {
+    "id": "1247590",
+    "name": "Heart of Xberg between Park & Canal",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 49,
+    "room_type": "Private room",
+    "latitude": "52.49708939804296",
+    "longitude": "13.436862427063277"
+  },
+  {
+    "id": "16485339",
+    "name": "Cozy Studio in Berlin Köpenick near Airport (SFX)",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 30,
+    "room_type": "Private room",
+    "latitude": "52.45303949282961",
+    "longitude": "13.575517138891962"
+  },
+  {
+    "id": "1355609",
+    "name": "Balconyroom in Neukölln",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 34,
+    "room_type": "Private room",
+    "latitude": "52.47342795132715",
+    "longitude": "13.434753065654734"
+  },
+  {
+    "id": "10360635",
+    "name": "Charmante Wohnung am Treptower Park",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 56,
+    "room_type": "Entire home/apt",
+    "latitude": "52.48478605401518",
+    "longitude": "13.463129084964017"
+  },
+  {
+    "id": "912787",
+    "name": "Charming, stylish apt in Kreuzkolln",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 74,
+    "room_type": "Entire home/apt",
+    "latitude": "52.48482480843363",
+    "longitude": "13.438721328434465"
+  },
+  {
+    "id": "8419780",
+    "name": "Schöne Altbauwohnung Ku'damm Nähe❤️",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 120,
+    "room_type": "Entire home/apt",
+    "latitude": "52.497547750504644",
+    "longitude": "13.296400803403044"
+  },
+  {
+    "id": "7097361",
+    "name": "Rad flat in the center of Neukölln",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 75,
+    "room_type": "Entire home/apt",
+    "latitude": "52.48679173819872",
+    "longitude": "13.438024903038885"
+  },
+  {
+    "id": "5172783",
+    "name": "best place",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 32,
+    "room_type": "Private room",
+    "latitude": "52.5397588306136",
+    "longitude": "13.405703232542981"
+  },
+  {
+    "id": "4037117",
+    "name": "Cosy quiet room in trendy Neukölln",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 25,
+    "room_type": "Private room",
+    "latitude": "52.48731488352148",
+    "longitude": "13.427161711064665"
+  },
+  {
+    "id": "715054",
+    "name": "Central Berlin - perfect location",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 89,
+    "room_type": "Entire home/apt",
+    "latitude": "52.52626367396285",
+    "longitude": "13.409410941467138"
+  },
+  {
+    "id": "11310656",
+    "name": "Sunny and large room right next to Museum Island",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 59,
+    "room_type": "Private room",
+    "latitude": "52.525109940737075",
+    "longitude": "13.396399244147151"
+  },
+  {
+    "id": "11605452",
+    "name": "Sunny Penthouse in Prenzlauer Berg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 55,
+    "room_type": "Private room",
+    "latitude": "52.54571145985354",
+    "longitude": "13.415772403995739"
+  },
+  {
+    "id": "9165505",
+    "name": "Room with own bath at Lake Tegel",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 34,
+    "room_type": "Private room",
+    "latitude": "52.58842482478673",
+    "longitude": "13.281631126675261"
+  },
+  {
+    "id": "10277396",
+    "name": "Imagine Berlin...!!",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 56,
+    "room_type": "Private room",
+    "latitude": "52.50439659868399",
+    "longitude": "13.386155161785183"
+  },
+  {
+    "id": "13967005",
+    "name": "Bright and spacious room w. balcony in Mitte",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 40,
+    "room_type": "Private room",
+    "latitude": "52.54661603423164",
+    "longitude": "13.368646149799"
+  },
+  {
+    "id": "9630782",
+    "name": "Designer Home by Badeschiff for Creative Nomads",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 140,
+    "room_type": "Entire home/apt",
+    "latitude": "52.498344065571736",
+    "longitude": "13.447119488842457"
+  },
+  {
+    "id": "3893805",
+    "name": "Old Yorck",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 35,
+    "room_type": "Private room",
+    "latitude": "52.49436264339917",
+    "longitude": "13.380044142399369"
+  },
+  {
+    "id": "11665059",
+    "name": "2 bedroom - centre of Prenzl. Berg2",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 99,
+    "room_type": "Entire home/apt",
+    "latitude": "52.55180713775458",
+    "longitude": "13.414847346776808"
+  },
+  {
+    "id": "81081",
+    "name": "Beautiful Prenzlauer Berg Apt",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 66,
+    "room_type": "Entire home/apt",
+    "latitude": "52.549680962010505",
+    "longitude": "13.415277910466589"
+  },
+  {
+    "id": "18506873",
+    "name": "Apartment im Prenzlauer Berg IIIn",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 65,
+    "room_type": "Entire home/apt",
+    "latitude": "52.55004511827361",
+    "longitude": "13.413625804033263"
+  },
+  {
+    "id": "14705308",
+    "name": "Well lighted, spacious private room with balcony",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 45,
+    "room_type": "Private room",
+    "latitude": "52.46711324026503",
+    "longitude": "13.443330090810084"
+  },
+  {
+    "id": "5217306",
+    "name": "City-Center • StartUp Neighbourhood",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 120,
+    "room_type": "Private room",
+    "latitude": "52.52922427049912",
+    "longitude": "13.412885976345114"
+  },
+  {
+    "id": "4877813",
+    "name": "Roof Terrace Oasis in the Center of Berlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 60,
+    "room_type": "Private room",
+    "latitude": "52.53937120704528",
+    "longitude": "13.419185924697507"
+  },
+  {
+    "id": "11624443",
+    "name": "Central, Modern DesignStudio w/ Flexible Check In",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 99,
+    "room_type": "Entire home/apt",
+    "latitude": "52.532113708587936",
+    "longitude": "13.413188227316256"
+  },
+  {
+    "id": "12956703",
+    "name": "Moderne ruhige Wohnung in Wannsee",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 27,
+    "room_type": "Private room",
+    "latitude": "52.414941016571",
+    "longitude": "13.143352408988838"
+  },
+  {
+    "id": "4876448",
+    "name": "Design Loft in Berlin-Schöneberg, modern but cosy",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 49,
+    "room_type": "Entire home/apt",
+    "latitude": "52.485131386423284",
+    "longitude": "13.361698892236841"
+  },
+  {
+    "id": "15185336",
+    "name": "Spacious guestroom near Tempelhofer Flugfeld",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 25,
+    "room_type": "Private room",
+    "latitude": "52.47380959197156",
+    "longitude": "13.375726009119902"
+  },
+  {
+    "id": "15656479",
+    "name": "Art-filled Apartment in Wedding with 2 Balconies",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 130,
+    "room_type": "Entire home/apt",
+    "latitude": "52.54309632116807",
+    "longitude": "13.371248256552054"
+  },
+  {
+    "id": "13798286",
+    "name": "Staying in Schöneberg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 46,
+    "room_type": "Private room",
+    "latitude": "52.493253559022996",
+    "longitude": "13.368394107600853"
+  },
+  {
+    "id": "9291466",
+    "name": "Eleanor's piano apartment",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 102,
+    "room_type": "Entire home/apt",
+    "latitude": "52.49061490982693",
+    "longitude": "13.363637879775883"
+  },
+  {
+    "id": "5279975",
+    "name": "Beautiful Room in Shared Flat",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 33,
+    "room_type": "Private room",
+    "latitude": "52.4814962873466",
+    "longitude": "13.359400367765893"
+  },
+  {
+    "id": "2531191",
+    "name": "Central City Apartment Berlin/Hermannplatz",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 56,
+    "room_type": "Entire home/apt",
+    "latitude": "52.482896158458985",
+    "longitude": "13.427581489273557"
+  },
+  {
+    "id": "250376",
+    "name": "♥ ROMANTIC ALTBAU in Friedrichshain-Kreuzberg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 100,
+    "room_type": "Private room",
+    "latitude": "52.512132273142285",
+    "longitude": "13.452285824669957"
+  },
+  {
+    "id": "979033",
+    "name": "Design Loft – Akazienkiez",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 90,
+    "room_type": "Entire home/apt",
+    "latitude": "52.48517796167817",
+    "longitude": "13.352063628939765"
+  },
+  {
+    "id": "5771841",
+    "name": "Light Flooded Altbau Apartment",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 65,
+    "room_type": "Entire home/apt",
+    "latitude": "52.551567701424695",
+    "longitude": "13.382356773736584"
+  },
+  {
+    "id": "13819539",
+    "name": "Cozy bright room in spacious apartment",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 47,
+    "room_type": "Private room",
+    "latitude": "52.53452832223813",
+    "longitude": "13.442973831378612"
+  },
+  {
+    "id": "4153622",
+    "name": "Cosy room close to Alexanderplatz",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 42,
+    "room_type": "Private room",
+    "latitude": "52.52996444273856",
+    "longitude": "13.44360140567332"
+  },
+  {
+    "id": "6279787",
+    "name": "Prenzlauer Berg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 40,
+    "room_type": "Entire home/apt",
+    "latitude": "52.55368192495495",
+    "longitude": "13.408804107523444"
+  },
+  {
+    "id": "3354688",
+    "name": "Sunny Private Room in Kreuzberg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 100,
+    "room_type": "Private room",
+    "latitude": "52.50586331556534",
+    "longitude": "13.43032718228826"
+  },
+  {
+    "id": "9154081",
+    "name": "Cosy and quiet near central station",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 25,
+    "room_type": "Private room",
+    "latitude": "52.523922273695085",
+    "longitude": "13.33870813950733"
+  },
+  {
+    "id": "6447116",
+    "name": "Ruhige helle whg. in Friedrichshain",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 62,
+    "room_type": "Entire home/apt",
+    "latitude": "52.516738841960425",
+    "longitude": "13.47032591304911"
+  },
+  {
+    "id": "16314046",
+    "name": "Cosy & Stylish Kreuzberg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 89,
+    "room_type": "Entire home/apt",
+    "latitude": "52.50092053511842",
+    "longitude": "13.441914989588144"
+  },
+  {
+    "id": "16063338",
+    "name": "Elegant quiet room in Berlin Mitte - Apt. (~1900)",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 42,
+    "room_type": "Private room",
+    "latitude": "52.53067185015461",
+    "longitude": "13.388541517723578"
+  },
+  {
+    "id": "883847",
+    "name": "Apartment-M",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 45,
+    "room_type": "Entire home/apt",
+    "latitude": "52.54887931155446",
+    "longitude": "13.362740678721767"
+  },
+  {
+    "id": "12967814",
+    "name": "400m2 Luxurious Loft Berlin-Mitte with AirCon",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 76,
+    "room_type": "Private room",
+    "latitude": "52.52319194741478",
+    "longitude": "13.35217036259113"
+  },
+  {
+    "id": "249419",
+    "name": "Studio to feel good Prenzlauerberg!",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 95,
+    "room_type": "Entire home/apt",
+    "latitude": "52.54300023226586",
+    "longitude": "13.424867612774582"
+  },
+  {
+    "id": "3904895",
+    "name": "Chic apartment in central Prenzlauerberg!",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 53,
+    "room_type": "Entire home/apt",
+    "latitude": "52.53900474648865",
+    "longitude": "13.424441492508869"
+  },
+  {
+    "id": "1632353",
+    "name": "Nature`s dream Room in the centre",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 34,
+    "room_type": "Private room",
+    "latitude": "52.507681115349136",
+    "longitude": "13.406379318672561"
+  },
+  {
+    "id": "14793762",
+    "name": "Top-Location (Hackescher Markt) & Top-Price !!!",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 47,
+    "room_type": "Private room",
+    "latitude": "52.524762787089784",
+    "longitude": "13.394650064203923"
+  },
+  {
+    "id": "1701332",
+    "name": "Neue Promenade Berlin Mitte",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 90,
+    "room_type": "Private room",
+    "latitude": "52.521897852333694",
+    "longitude": "13.40173222506711"
+  },
+  {
+    "id": "9365265",
+    "name": "Lukania in Berlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 80,
+    "room_type": "Entire home/apt",
+    "latitude": "52.506860773060374",
+    "longitude": "13.398430460304143"
+  },
+  {
+    "id": "8841652",
+    "name": "Apartment Basilikata in Berlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 60,
+    "room_type": "Entire home/apt",
+    "latitude": "52.505105824363525",
+    "longitude": "13.39945504333176"
+  },
+  {
+    "id": "344986",
+    "name": "Sunny Cosy Prenzlauer Berg Berlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 65,
+    "room_type": "Private room",
+    "latitude": "52.53694697506237",
+    "longitude": "13.420710099502527"
+  },
+  {
+    "id": "1188244",
+    "name": "Don't be a tourist, be a Berliner!",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 42,
+    "room_type": "Private room",
+    "latitude": "52.537121422316595",
+    "longitude": "13.42044722091047"
+  },
+  {
+    "id": "9428090",
+    "name": "MODERNES FAMILIENSTUDIO (Neu!!!)",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 75,
+    "room_type": "Entire home/apt",
+    "latitude": "52.545291984551454",
+    "longitude": "13.424649251116348"
+  },
+  {
+    "id": "4114966",
+    "name": "Astonishing View in Prenzlauer Berg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 60,
+    "room_type": "Private room",
+    "latitude": "52.531352815201544",
+    "longitude": "13.420653986074978"
+  },
+  {
+    "id": "15121471",
+    "name": "calm and traffic-favorable, S+U (public) in 3min",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 60,
+    "room_type": "Entire home/apt",
+    "latitude": "52.51231536684744",
+    "longitude": "13.498624770226211"
+  },
+  {
+    "id": "1143668",
+    "name": "OLD YORCK",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 77,
+    "room_type": "Entire home/apt",
+    "latitude": "52.49448306000239",
+    "longitude": "13.380637389673437"
+  },
+  {
+    "id": "1864103",
+    "name": "Roof Top with Panoramic View",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 180,
+    "room_type": "Entire home/apt",
+    "latitude": "52.493442351564525",
+    "longitude": "13.410052885458887"
+  },
+  {
+    "id": "16336183",
+    "name": "Private Room in Berlin Tegel",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 20,
+    "room_type": "Private room",
+    "latitude": "52.570798625719725",
+    "longitude": "13.314745801706586"
+  },
+  {
+    "id": "9134425",
+    "name": "Design Artist Loft-Appt. Schöneberg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 96,
+    "room_type": "Entire home/apt",
+    "latitude": "52.48817955806455",
+    "longitude": "13.361577072267897"
+  },
+  {
+    "id": "8187389",
+    "name": "Luxurious room AAA location",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 45,
+    "room_type": "Private room",
+    "latitude": "52.49643064295388",
+    "longitude": "13.352415446426527"
+  },
+  {
+    "id": "14020513",
+    "name": "Huge & beautiful room with Balcony",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 35,
+    "room_type": "Private room",
+    "latitude": "52.51305041342262",
+    "longitude": "13.262609769335858"
+  },
+  {
+    "id": "15978121",
+    "name": "Spacious, charming, in the heart of Berlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 36,
+    "room_type": "Private room",
+    "latitude": "52.516635955675305",
+    "longitude": "13.30493429120851"
+  },
+  {
+    "id": "11094973",
+    "name": "Helle, moderne Dachgeschosswohnung",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 35,
+    "room_type": "Private room",
+    "latitude": "52.5195616573828",
+    "longitude": "13.302872524290825"
+  },
+  {
+    "id": "9941028",
+    "name": "Beautiful room with private bathroom&balcony",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 35,
+    "room_type": "Private room",
+    "latitude": "52.5042400529592",
+    "longitude": "13.464410019379175"
+  },
+  {
+    "id": "7467596",
+    "name": "Spacious and very quiet private room",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 37,
+    "room_type": "Private room",
+    "latitude": "52.50889996268668",
+    "longitude": "13.456491509450759"
+  },
+  {
+    "id": "1564278",
+    "name": "Spacious, central with winter garden",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 45,
+    "room_type": "Private room",
+    "latitude": "52.497849697304396",
+    "longitude": "13.347117598793455"
+  },
+  {
+    "id": "3866928",
+    "name": "gemütlich/ruhig in super Lage!",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 40,
+    "room_type": "Private room",
+    "latitude": "52.530194140887424",
+    "longitude": "13.433233219680329"
+  },
+  {
+    "id": "238396",
+    "name": "Within the city, calm and leafy",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 60,
+    "room_type": "Entire home/apt",
+    "latitude": "52.5321411985643",
+    "longitude": "13.415193972599369"
+  },
+  {
+    "id": "3836140",
+    "name": "Oasis of well-being with charm & style",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 30,
+    "room_type": "Private room",
+    "latitude": "52.54442198532956",
+    "longitude": "13.436321863526185"
+  },
+  {
+    "id": "6711211",
+    "name": "room in Wrangelkiez// only woman",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 33,
+    "room_type": "Private room",
+    "latitude": "52.49827283825166",
+    "longitude": "13.444685505832842"
+  },
+  {
+    "id": "4361101",
+    "name": "Privates Schlafzimmer Penthouse Apt",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 45,
+    "room_type": "Private room",
+    "latitude": "52.507312784609915",
+    "longitude": "13.285194009462078"
+  },
+  {
+    "id": "15914766",
+    "name": "Sonnendurchflutetes Apartment",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 80,
+    "room_type": "Entire home/apt",
+    "latitude": "52.49573352857318",
+    "longitude": "13.306492366065157"
+  },
+  {
+    "id": "7656993",
+    "name": "zentrumsnah, ruhig und fast neu",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 30,
+    "room_type": "Entire home/apt",
+    "latitude": "52.44321298798821",
+    "longitude": "13.316937919408845"
+  },
+  {
+    "id": "1865530",
+    "name": "2 Zimmer in Gästeetage",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 36,
+    "room_type": "Entire home/apt",
+    "latitude": "52.43750134798626",
+    "longitude": "13.306200214142338"
+  },
+  {
+    "id": "13469185",
+    "name": "Ferien in Berlin Wannsee Wohnung",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 59,
+    "room_type": "Entire home/apt",
+    "latitude": "52.41343741319143",
+    "longitude": "13.143837521147923"
+  },
+  {
+    "id": "1274612",
+    "name": "Unique & charming Berlin apartment",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 27,
+    "room_type": "Private room",
+    "latitude": "52.51464255287774",
+    "longitude": "13.490536434846135"
+  },
+  {
+    "id": "922941",
+    "name": "SALE 13.-17.8. // 21.-25.8.  AMAZING VIEW 19.floor",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 99,
+    "room_type": "Entire home/apt",
+    "latitude": "52.5111004316082",
+    "longitude": "13.396836921442132"
+  },
+  {
+    "id": "1005072",
+    "name": "Beautiful, spacious flat in Berlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 55,
+    "room_type": "Entire home/apt",
+    "latitude": "52.504083473844",
+    "longitude": "13.314764392737855"
+  },
+  {
+    "id": "4759102",
+    "name": "SPECIAL OFFER! * 5 PPL, Boxi area!",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 120,
+    "room_type": "Entire home/apt",
+    "latitude": "52.510951009195736",
+    "longitude": "13.464997626265138"
+  },
+  {
+    "id": "6982121",
+    "name": "Helle Wohnung gepflegt und ruhig",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 79,
+    "room_type": "Entire home/apt",
+    "latitude": "52.51070173885777",
+    "longitude": "13.471284536724752"
+  },
+  {
+    "id": "431652",
+    "name": "Upstairs at Eric's",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 50,
+    "room_type": "Private room",
+    "latitude": "52.51152303326814",
+    "longitude": "13.466195271588793"
+  },
+  {
+    "id": "7772720",
+    "name": "Historic view, TV, washer + dryer.",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 36,
+    "room_type": "Entire home/apt",
+    "latitude": "52.48454125372626",
+    "longitude": "13.344141896192985"
+  },
+  {
+    "id": "7195329",
+    "name": "Great Altbau appt Richardskiez",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 80,
+    "room_type": "Entire home/apt",
+    "latitude": "52.4741348597622",
+    "longitude": "13.44919997472037"
+  },
+  {
+    "id": "2958436",
+    "name": "Cosy little room in Helmholtzkiez!",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 50,
+    "room_type": "Private room",
+    "latitude": "52.545183082511464",
+    "longitude": "13.419202685086809"
+  },
+  {
+    "id": "2771100",
+    "name": "Best located, parks, cafés, sunny balcony- Veggie!",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 24,
+    "room_type": "Private room",
+    "latitude": "52.48690243544218",
+    "longitude": "13.431393075559138"
+  },
+  {
+    "id": "17955217",
+    "name": "schönes Zimmer mit privatem Bad",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 38,
+    "room_type": "Private room",
+    "latitude": "52.53045854653808",
+    "longitude": "13.55360709771672"
+  },
+  {
+    "id": "11446121",
+    "name": "Stay with Travel Bloggers in F'hain",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 54,
+    "room_type": "Private room",
+    "latitude": "52.51532223949033",
+    "longitude": "13.465857826158658"
+  },
+  {
+    "id": "1448533",
+    "name": "Sunny Apartment with Balcony",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 80,
+    "room_type": "Entire home/apt",
+    "latitude": "52.55157225076105",
+    "longitude": "13.373981916774216"
+  },
+  {
+    "id": "15350268",
+    "name": "Bright city loft, Kreuzberg East with roof-balcony",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 90,
+    "room_type": "Entire home/apt",
+    "latitude": "52.501141296112614",
+    "longitude": "13.442126703374871"
+  },
+  {
+    "id": "3284989",
+    "name": "Möckernstr Modern",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 40,
+    "room_type": "Private room",
+    "latitude": "52.49376986953896",
+    "longitude": "13.380238926352828"
+  },
+  {
+    "id": "192499",
+    "name": "FILMSALON",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 49,
+    "room_type": "Private room",
+    "latitude": "52.4936479305933",
+    "longitude": "13.421148882821425"
+  },
+  {
+    "id": "14311547",
+    "name": "Beautiful 28m2 Room in Heart of Kreuzberg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 35,
+    "room_type": "Private room",
+    "latitude": "52.493603756510296",
+    "longitude": "13.435200904833595"
+  },
+  {
+    "id": "17582181",
+    "name": "Mini-Apartment-Loft-Style",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 56,
+    "room_type": "Entire home/apt",
+    "latitude": "52.49769388396959",
+    "longitude": "13.399238964027685"
+  },
+  {
+    "id": "11040435",
+    "name": "The TUCHOLSKY Residence in MITTE!",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 139,
+    "room_type": "Entire home/apt",
+    "latitude": "52.52534779332225",
+    "longitude": "13.394719219472401"
+  },
+  {
+    "id": "7849188",
+    "name": "Zimmer in Altbau am Helmholtz Platz",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 34,
+    "room_type": "Private room",
+    "latitude": "52.54466713138061",
+    "longitude": "13.419757547868844"
+  },
+  {
+    "id": "16695520",
+    "name": "Living / Room in Berlin-Mitte",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 16,
+    "room_type": "Private room",
+    "latitude": "52.536308624502226",
+    "longitude": "13.398596372161496"
+  },
+  {
+    "id": "8350544",
+    "name": "HOME - DESIGN - SUNNY Apartment in Mitte",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 130,
+    "room_type": "Entire home/apt",
+    "latitude": "52.53308334413862",
+    "longitude": "13.39323899579168"
+  },
+  {
+    "id": "2137277",
+    "name": "Modern + Renovated + Cool Kreuzberg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 60,
+    "room_type": "Entire home/apt",
+    "latitude": "52.48944258611214",
+    "longitude": "13.420147472884327"
+  },
+  {
+    "id": "16158888",
+    "name": "Sunny Apt. with park view",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 125,
+    "room_type": "Entire home/apt",
+    "latitude": "52.49155634793825",
+    "longitude": "13.380914651403463"
+  },
+  {
+    "id": "3108257",
+    "name": "COZY and CENTRAL Flat",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 50,
+    "room_type": "Entire home/apt",
+    "latitude": "52.54511915137341",
+    "longitude": "13.434511476030842"
+  },
+  {
+    "id": "5197354",
+    "name": "Architect's place: central & stylish in P' Berg!",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 65,
+    "room_type": "Entire home/apt",
+    "latitude": "52.55039821658599",
+    "longitude": "13.412795575018349"
+  },
+  {
+    "id": "1436745",
+    "name": "buntes Wg- Zimmer für Frauen :)",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 35,
+    "room_type": "Private room",
+    "latitude": "52.5370889197782",
+    "longitude": "13.422950777912893"
+  },
+  {
+    "id": "7571301",
+    "name": "Cosy double room in modern flat",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 50,
+    "room_type": "Private room",
+    "latitude": "52.53185638709001",
+    "longitude": "13.431397828242645"
+  },
+  {
+    "id": "13092779",
+    "name": "Best Neighbour to Charlottenburg Palace and Fairs",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 30,
+    "room_type": "Private room",
+    "latitude": "52.51628466085183",
+    "longitude": "13.289067312710957"
+  },
+  {
+    "id": "914944",
+    "name": "Bohemian Apt Neukölln Gay friendly",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 28,
+    "room_type": "Private room",
+    "latitude": "52.4850812705864",
+    "longitude": "13.434323887803236"
+  },
+  {
+    "id": "16065103",
+    "name": "*** Cozy Murcia *** WiFi",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 38,
+    "room_type": "Entire home/apt",
+    "latitude": "52.44939908008832",
+    "longitude": "13.343289825435896"
+  },
+  {
+    "id": "16093849",
+    "name": "Top floor apartment on Bhf-Lichtenberg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 58,
+    "room_type": "Entire home/apt",
+    "latitude": "52.51174786240381",
+    "longitude": "13.503680530941985"
+  },
+  {
+    "id": "10767317",
+    "name": "Cozy room, quiet central townhouse",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 45,
+    "room_type": "Private room",
+    "latitude": "52.49661595183854",
+    "longitude": "13.483756800393918"
+  },
+  {
+    "id": "8250660",
+    "name": "The Silent room at History area",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 49,
+    "room_type": "Private room",
+    "latitude": "52.497867784344045",
+    "longitude": "13.352223627086913"
+  },
+  {
+    "id": "5328804",
+    "name": "Great Room in Quiet & Central Area!",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 33,
+    "room_type": "Private room",
+    "latitude": "52.48372550877862",
+    "longitude": "13.361526042975656"
+  },
+  {
+    "id": "13669175",
+    "name": "Cheap sunny appartment including balcony",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 30,
+    "room_type": "Private room",
+    "latitude": "52.46984196604776",
+    "longitude": "13.429610403087498"
+  },
+  {
+    "id": "14823661",
+    "name": "A nice place to be",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 49,
+    "room_type": "Entire home/apt",
+    "latitude": "52.41358151901017",
+    "longitude": "13.66776273269716"
+  },
+  {
+    "id": "17991175",
+    "name": "Chillout-WG-2017 - Arbeits/Schlafzimmer",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 24,
+    "room_type": "Private room",
+    "latitude": "52.518334466568426",
+    "longitude": "13.465158651625478"
+  },
+  {
+    "id": "362701",
+    "name": "Stylish lodge in the heart of Kreuz",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 89,
+    "room_type": "Entire home/apt",
+    "latitude": "52.50332881100493",
+    "longitude": "13.43878167302309"
+  },
+  {
+    "id": "6559385",
+    "name": "Private Room - Museum Island/Alex",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 56,
+    "room_type": "Private room",
+    "latitude": "52.51760313295689",
+    "longitude": "13.404267748025713"
+  },
+  {
+    "id": "434209",
+    "name": "Cute In-Law Suite with Garden Access",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 47,
+    "room_type": "Entire home/apt",
+    "latitude": "52.59403927592875",
+    "longitude": "13.325810013482217"
+  },
+  {
+    "id": "6081509",
+    "name": "Superb Souterrain with private Bath",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 34,
+    "room_type": "Private room",
+    "latitude": "52.59315718616407",
+    "longitude": "13.325785073115572"
+  },
+  {
+    "id": "4962997",
+    "name": "Loft with Huge Terrace",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 160,
+    "room_type": "Entire home/apt",
+    "latitude": "52.527926675769905",
+    "longitude": "13.406562037293595"
+  },
+  {
+    "id": "8386451",
+    "name": "Artsy + Renovated + Cool Kreuzberg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 60,
+    "room_type": "Entire home/apt",
+    "latitude": "52.489036118468846",
+    "longitude": "13.419080629850622"
+  },
+  {
+    "id": "16736758",
+    "name": "Bright bedroom in Kreuzberg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 23,
+    "room_type": "Private room",
+    "latitude": "52.49047102129781",
+    "longitude": "13.380357408628443"
+  },
+  {
+    "id": "3187735",
+    "name": "STYLISH. CENTRAL. BALCONY.",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 58,
+    "room_type": "Entire home/apt",
+    "latitude": "52.534266365121006",
+    "longitude": "13.433865300277642"
+  },
+  {
+    "id": "11998308",
+    "name": "2 Bed, 2 Bath Winsstr. Pberg!2",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 125,
+    "room_type": "Entire home/apt",
+    "latitude": "52.53426979851077",
+    "longitude": "13.426204320444"
+  },
+  {
+    "id": "11695345",
+    "name": "Spacious room in lovely Kreuzkölln",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 35,
+    "room_type": "Private room",
+    "latitude": "52.48690791937886",
+    "longitude": "13.426186696974524"
+  },
+  {
+    "id": "15128156",
+    "name": "bright and cozy room to forget the cold",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 30,
+    "room_type": "Private room",
+    "latitude": "52.4901079553307",
+    "longitude": "13.429453618040972"
+  },
+  {
+    "id": "16155678",
+    "name": "Perfectly Located Room in Mitte",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 35,
+    "room_type": "Private room",
+    "latitude": "52.5294892068204",
+    "longitude": "13.396387939639006"
+  },
+  {
+    "id": "16280687",
+    "name": "LIVING FACTORY by BENSIMON (4 ROOMS & 110 SQM) III",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 150,
+    "room_type": "Entire home/apt",
+    "latitude": "52.53232117447097",
+    "longitude": "13.32634228710795"
+  },
+  {
+    "id": "16333552",
+    "name": "Welcome to Berlin /quite and cosy room in Steglitz",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 24,
+    "room_type": "Private room",
+    "latitude": "52.46672735747124",
+    "longitude": "13.318115966625408"
+  },
+  {
+    "id": "7766389",
+    "name": "Attractive Room with private bath",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 31,
+    "room_type": "Private room",
+    "latitude": "52.47731228376761",
+    "longitude": "13.440315116651387"
+  },
+  {
+    "id": "12962561",
+    "name": "Central flat with rooftop terrace",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 109,
+    "room_type": "Entire home/apt",
+    "latitude": "52.510826851573725",
+    "longitude": "13.457498933851221"
+  },
+  {
+    "id": "8093721",
+    "name": "Lovely Apartment in Friedrichshain",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 90,
+    "room_type": "Entire home/apt",
+    "latitude": "52.51053999212109",
+    "longitude": "13.458262012710156"
+  },
+  {
+    "id": "17039478",
+    "name": "Berlin on Budget - in the heart of Ku'damm !",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 15,
+    "room_type": "Shared room",
+    "latitude": "52.504541692005205",
+    "longitude": "13.325437292999013"
+  },
+  {
+    "id": "14562079",
+    "name": "Creativerooms | zentral & dennoch im grünen",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 75,
+    "room_type": "Entire home/apt",
+    "latitude": "52.51371768520667",
+    "longitude": "13.492134820851865"
+  },
+  {
+    "id": "17230578",
+    "name": "Cozy room in comfortable 260qm house w breakfast",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 29,
+    "room_type": "Private room",
+    "latitude": "52.61988007261781",
+    "longitude": "13.22712377886912"
+  },
+  {
+    "id": "5569139",
+    "name": "Two cats, their humans and a lot of bright space",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 35,
+    "room_type": "Private room",
+    "latitude": "52.48444765197486",
+    "longitude": "13.43766397936191"
+  },
+  {
+    "id": "11004682",
+    "name": "Schlaflos in Schöneberg?",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 50,
+    "room_type": "Private room",
+    "latitude": "52.49631727254212",
+    "longitude": "13.340588764739199"
+  },
+  {
+    "id": "11856542",
+    "name": "exklusives Apartment in 1A+Bestlage",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 79,
+    "room_type": "Entire home/apt",
+    "latitude": "52.51674647464809",
+    "longitude": "13.387377385597073"
+  },
+  {
+    "id": "6834476",
+    "name": "Ferienwohnung mit Garten",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 50,
+    "room_type": "Entire home/apt",
+    "latitude": "52.517941637597445",
+    "longitude": "13.628652064672936"
+  },
+  {
+    "id": "954742",
+    "name": "Beautiful room in historical house",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 45,
+    "room_type": "Private room",
+    "latitude": "52.49882994030597",
+    "longitude": "13.351395828566167"
+  },
+  {
+    "id": "1251270",
+    "name": "Cosy and bright with views +balcony",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 99,
+    "room_type": "Entire home/apt",
+    "latitude": "52.512250389849434",
+    "longitude": "13.462272359087244"
+  },
+  {
+    "id": "7524443",
+    "name": "Ruhiges Studio- Stadtvilla Messe",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 65,
+    "room_type": "Entire home/apt",
+    "latitude": "52.512126190549345",
+    "longitude": "13.27309246627487"
+  },
+  {
+    "id": "15473822",
+    "name": "Altbau, Sonnig, Malerisch",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 33,
+    "room_type": "Private room",
+    "latitude": "52.47229961824091",
+    "longitude": "13.42439461566086"
+  },
+  {
+    "id": "201224",
+    "name": "very charming central apartment....",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 80,
+    "room_type": "Entire home/apt",
+    "latitude": "52.504484788621085",
+    "longitude": "13.35903344819543"
+  },
+  {
+    "id": "17426004",
+    "name": "23 m² Beautiful Botanic Furnished Room!",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 29,
+    "room_type": "Private room",
+    "latitude": "52.47646222038876",
+    "longitude": "13.44059830482434"
+  },
+  {
+    "id": "10325781",
+    "name": "The Room of Neukölln",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 25,
+    "room_type": "Private room",
+    "latitude": "52.483697851535574",
+    "longitude": "13.434614947514998"
+  },
+  {
+    "id": "13775617",
+    "name": "Oversized ★ Modern ★ Room (25m2) in Friedrichshain",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 38,
+    "room_type": "Private room",
+    "latitude": "52.5241491443662",
+    "longitude": "13.452332575930871"
+  },
+  {
+    "id": "12745351",
+    "name": "Ruhig und doch mitten im Leben",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 38,
+    "room_type": "Private room",
+    "latitude": "52.50606919541476",
+    "longitude": "13.417815427693478"
+  },
+  {
+    "id": "15421807",
+    "name": "Single room in the heart of the city",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 35,
+    "room_type": "Private room",
+    "latitude": "52.50729041964245",
+    "longitude": "13.424049259878295"
+  },
+  {
+    "id": "656248",
+    "name": "Cosy appartement at Prenzlauer Berg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 69,
+    "room_type": "Entire home/apt",
+    "latitude": "52.546270487860205",
+    "longitude": "13.413629958683787"
+  },
+  {
+    "id": "2450125",
+    "name": "In the heart of Prenzlauer Berg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 140,
+    "room_type": "Entire home/apt",
+    "latitude": "52.542262705287875",
+    "longitude": "13.41693866154538"
+  },
+  {
+    "id": "6322710",
+    "name": "Großes Zimmer in der Künstlerkolonie Breitenbach",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 25,
+    "room_type": "Private room",
+    "latitude": "52.469107645605234",
+    "longitude": "13.3122901069524"
+  },
+  {
+    "id": "967622",
+    "name": "Calm Oasis in CityCenter great PT",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 48,
+    "room_type": "Private room",
+    "latitude": "52.51635313795054",
+    "longitude": "13.454267823264948"
+  },
+  {
+    "id": "13739412",
+    "name": "2 quiet rooms in the absolut center of Berlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 48,
+    "room_type": "Private room",
+    "latitude": "52.52323033927141",
+    "longitude": "13.400534004471119"
+  },
+  {
+    "id": "10148007",
+    "name": "bright refurbished Beletage (Front Bldng, 1st Fl.)",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 75,
+    "room_type": "Private room",
+    "latitude": "52.47811696188845",
+    "longitude": "13.424927810310797"
+  },
+  {
+    "id": "9779740",
+    "name": "lovely flat w. balcony in Neukölln",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 46,
+    "room_type": "Entire home/apt",
+    "latitude": "52.470732090603995",
+    "longitude": "13.441954235701159"
+  },
+  {
+    "id": "13893621",
+    "name": "Design apartment in the heart of Berlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 150,
+    "room_type": "Entire home/apt",
+    "latitude": "52.518875787196876",
+    "longitude": "13.467933293500831"
+  },
+  {
+    "id": "6821500",
+    "name": "Family Holiday in midst of Mitte",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 149,
+    "room_type": "Entire home/apt",
+    "latitude": "52.526152438516625",
+    "longitude": "13.404067552582271"
+  },
+  {
+    "id": "10880985",
+    "name": "Designer Apartment Berlin Mitte",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 82,
+    "room_type": "Entire home/apt",
+    "latitude": "52.52836602687353",
+    "longitude": "13.387813120478604"
+  },
+  {
+    "id": "8513041",
+    "name": "Double room Berlin center +2 bikes",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 70,
+    "room_type": "Private room",
+    "latitude": "52.51896483964797",
+    "longitude": "13.357426947405786"
+  },
+  {
+    "id": "2131667",
+    "name": "Holiday apartment in Bergmannkiez",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 70,
+    "room_type": "Entire home/apt",
+    "latitude": "52.48886810777268",
+    "longitude": "13.391961698694313"
+  },
+  {
+    "id": "7543419",
+    "name": "Bergmann Kiez. The place to be!",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 60,
+    "room_type": "Entire home/apt",
+    "latitude": "52.48890174096047",
+    "longitude": "13.37976497670007"
+  },
+  {
+    "id": "16100865",
+    "name": "Zentral und Cosy Room  in Kreuzberg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 35,
+    "room_type": "Private room",
+    "latitude": "52.49570638534813",
+    "longitude": "13.395907245382276"
+  },
+  {
+    "id": "14804266",
+    "name": "Cozy Souterrain in Kreuzberg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 82,
+    "room_type": "Entire home/apt",
+    "latitude": "52.49316154785299",
+    "longitude": "13.401914377109833"
+  },
+  {
+    "id": "17523801",
+    "name": "Gästezimmer für 1 Person",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 48,
+    "room_type": "Private room",
+    "latitude": "52.49549660002869",
+    "longitude": "13.384686406904015"
+  },
+  {
+    "id": "6074799",
+    "name": "BEAUTIFUL SPACE - PERFECT LOCATION",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 32,
+    "room_type": "Private room",
+    "latitude": "52.54865170465084",
+    "longitude": "13.403371325344674"
+  },
+  {
+    "id": "4912546",
+    "name": "Sunny, central with green balcony",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 70,
+    "room_type": "Entire home/apt",
+    "latitude": "52.543433832034175",
+    "longitude": "13.410488549141245"
+  },
+  {
+    "id": "16156393",
+    "name": "Your cosy home away",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 95,
+    "room_type": "Entire home/apt",
+    "latitude": "52.46458560212272",
+    "longitude": "13.317031575836248"
+  },
+  {
+    "id": "10029380",
+    "name": "Beautiful Studio in Prenzlauer Berg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 91,
+    "room_type": "Entire home/apt",
+    "latitude": "52.545870453882195",
+    "longitude": "13.410407269954703"
+  },
+  {
+    "id": "8264229",
+    "name": "Top location, near the Wall!",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 35,
+    "room_type": "Private room",
+    "latitude": "52.540219373384716",
+    "longitude": "13.405824734353697"
+  },
+  {
+    "id": "3498096",
+    "name": "Amazing Room at Teutoburger Platz",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 59,
+    "room_type": "Private room",
+    "latitude": "52.53077071977177",
+    "longitude": "13.409902981293566"
+  },
+  {
+    "id": "1559030",
+    "name": "THE BEST FLAT OF NEUKOLLN, BERLIN!!",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 84,
+    "room_type": "Entire home/apt",
+    "latitude": "52.48731856901519",
+    "longitude": "13.43517208491539"
+  },
+  {
+    "id": "4981709",
+    "name": "Sunny room located between kreyzberg and neuköln.",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 36,
+    "room_type": "Private room",
+    "latitude": "52.48856588947706",
+    "longitude": "13.450667059862162"
+  },
+  {
+    "id": "13163241",
+    "name": "Beautiful&quiet room in Lichtenberg (Am Tierpark)",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 20,
+    "room_type": "Private room",
+    "latitude": "52.49353205418947",
+    "longitude": "13.518974835191985"
+  },
+  {
+    "id": "8527325",
+    "name": "Berlin calling 4.0",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 75,
+    "room_type": "Private room",
+    "latitude": "52.47049589908713",
+    "longitude": "13.442391463257266"
+  },
+  {
+    "id": "3785525",
+    "name": "1room small flat (46m2) in the heart of Westside",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 55,
+    "room_type": "Entire home/apt",
+    "latitude": "52.50359839134771",
+    "longitude": "13.321373486171968"
+  },
+  {
+    "id": "3546034",
+    "name": "Stylish design apartment in Mitte",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 110,
+    "room_type": "Entire home/apt",
+    "latitude": "52.52911161403802",
+    "longitude": "13.406683148068945"
+  },
+  {
+    "id": "18397591",
+    "name": "2BR Penthouse in ❤️ of Berlin Mitte",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 210,
+    "room_type": "Entire home/apt",
+    "latitude": "52.53824113085777",
+    "longitude": "13.401455868889785"
+  },
+  {
+    "id": "15702706",
+    "name": "Loft in a former book store. 46 m2. Unusual&kitchy",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 60,
+    "room_type": "Entire home/apt",
+    "latitude": "52.55032097882491",
+    "longitude": "13.373120881323906"
+  },
+  {
+    "id": "1000638",
+    "name": "Nice, cosy and central",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 42,
+    "room_type": "Private room",
+    "latitude": "52.53478396421087",
+    "longitude": "13.397874405453827"
+  },
+  {
+    "id": "10103689",
+    "name": "Potsdamer Platz-Top Spot Studio 3",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 60,
+    "room_type": "Entire home/apt",
+    "latitude": "52.503786025820155",
+    "longitude": "13.376644543717772"
+  },
+  {
+    "id": "6540995",
+    "name": "Romantic Hardwood Floor Apartment",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 69,
+    "room_type": "Entire home/apt",
+    "latitude": "52.4897528805654",
+    "longitude": "13.405514842316391"
+  },
+  {
+    "id": "15432785",
+    "name": "Charming Villa Kunterbunt",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 70,
+    "room_type": "Entire home/apt",
+    "latitude": "52.54758298857232",
+    "longitude": "13.401458688506782"
+  },
+  {
+    "id": "1937697",
+    "name": "Lovely 2-room flat in an old house",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 75,
+    "room_type": "Entire home/apt",
+    "latitude": "52.530556826777556",
+    "longitude": "13.41217885935312"
+  },
+  {
+    "id": "11661596",
+    "name": "2-storey maisonette : balcony rooftop terrace",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 99,
+    "room_type": "Entire home/apt",
+    "latitude": "52.533966066818145",
+    "longitude": "13.43259121915375"
+  },
+  {
+    "id": "13823292",
+    "name": "Nice room near Friedrichshain",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 39,
+    "room_type": "Private room",
+    "latitude": "52.50079411812387",
+    "longitude": "13.49042081984588"
+  },
+  {
+    "id": "3117605",
+    "name": "Cozy room in Berlin Mitte",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 48,
+    "room_type": "Private room",
+    "latitude": "52.529209016213834",
+    "longitude": "13.385818125943617"
+  },
+  {
+    "id": "6096913",
+    "name": "Private room in central Berlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 50,
+    "room_type": "Private room",
+    "latitude": "52.53353543082195",
+    "longitude": "13.400781753600342"
+  },
+  {
+    "id": "9557985",
+    "name": "Central and Lovely! MITTE! TXL/HBF",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 70,
+    "room_type": "Entire home/apt",
+    "latitude": "52.52479330117176",
+    "longitude": "13.330269585699499"
+  },
+  {
+    "id": "14584511",
+    "name": "Quiet 40sqm apartment close to the subway",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 55,
+    "room_type": "Entire home/apt",
+    "latitude": "52.54903728260825",
+    "longitude": "13.346287913403698"
+  },
+  {
+    "id": "4045063",
+    "name": "Stay with the cool cats in Kreuzberg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 54,
+    "room_type": "Private room",
+    "latitude": "52.49745439282979",
+    "longitude": "13.397330622050623"
+  },
+  {
+    "id": "1199616",
+    "name": "Comfortable & lovely room for rent",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 35,
+    "room_type": "Private room",
+    "latitude": "52.553741143593975",
+    "longitude": "13.422604970914907"
+  },
+  {
+    "id": "8375434",
+    "name": "Artist penthouse 200m2",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 270,
+    "room_type": "Entire home/apt",
+    "latitude": "52.54802230558827",
+    "longitude": "13.41984670341595"
+  },
+  {
+    "id": "16090762",
+    "name": "Top location & room in lovely flat!",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 39,
+    "room_type": "Private room",
+    "latitude": "52.538413178325264",
+    "longitude": "13.419028028397644"
+  },
+  {
+    "id": "9468063",
+    "name": "Berlin, Prenzlauer Berg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 200,
+    "room_type": "Entire home/apt",
+    "latitude": "52.53721870633707",
+    "longitude": "13.427626236241915"
+  },
+  {
+    "id": "1976810",
+    "name": "Spacious 2room in lovely Kreuzkölln",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 94,
+    "room_type": "Entire home/apt",
+    "latitude": "52.487372495354656",
+    "longitude": "13.427482770753564"
+  },
+  {
+    "id": "4020501",
+    "name": "Neukölln Apartment w/ sunny balcony",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 59,
+    "room_type": "Entire home/apt",
+    "latitude": "52.48104940689699",
+    "longitude": "13.447603333674566"
+  },
+  {
+    "id": "9348843",
+    "name": "GuestRoom in the heart of Kreuzberg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 50,
+    "room_type": "Private room",
+    "latitude": "52.500121156955544",
+    "longitude": "13.431876027395756"
+  },
+  {
+    "id": "3985754",
+    "name": "PARADISE ROOM w. BALCONY - BOUTIQUE HOTEL LUXURY",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 50,
+    "room_type": "Private room",
+    "latitude": "52.487320489451356",
+    "longitude": "13.46378903442945"
+  },
+  {
+    "id": "4813228",
+    "name": "great studio near city, river view!",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 50,
+    "room_type": "Entire home/apt",
+    "latitude": "52.49518915877879",
+    "longitude": "13.47005822923493"
+  },
+  {
+    "id": "10809582",
+    "name": "Quiet&Cozy 70sqm, 2 bedroom apartment near airport",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 90,
+    "room_type": "Entire home/apt",
+    "latitude": "52.412387625105",
+    "longitude": "13.505764179577596"
+  },
+  {
+    "id": "3070040",
+    "name": "Willkommen in Berlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 40,
+    "room_type": "Private room",
+    "latitude": "52.57582830479929",
+    "longitude": "13.359407574873197"
+  },
+  {
+    "id": "15954675",
+    "name": "Room in pittoresque Charlottenburg neighborhood",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 27,
+    "room_type": "Private room",
+    "latitude": "52.514561374539014",
+    "longitude": "13.30216708750832"
+  },
+  {
+    "id": "3992681",
+    "name": "*UNICORN IN PARADISE* APARTMENT - BOUTIQUE STYLE",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 180,
+    "room_type": "Entire home/apt",
+    "latitude": "52.48724247923358",
+    "longitude": "13.46427671979828"
+  },
+  {
+    "id": "9265175",
+    "name": "Neukolln Studio near Tempelhof",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 41,
+    "room_type": "Entire home/apt",
+    "latitude": "52.465327891740685",
+    "longitude": "13.429796640861138"
+  },
+  {
+    "id": "8685370",
+    "name": "Ruhig, Grün aber dennoch Großstadt!",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 52,
+    "room_type": "Entire home/apt",
+    "latitude": "52.45482291408692",
+    "longitude": "13.516565271364803"
+  },
+  {
+    "id": "1442066",
+    "name": "Ferienhaus im Grünen am Waldrand",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 70,
+    "room_type": "Entire home/apt",
+    "latitude": "52.47547363377371",
+    "longitude": "13.60021588895222"
+  },
+  {
+    "id": "9994644",
+    "name": "Potsdamer Platz-Top Spot Studio 1",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 60,
+    "room_type": "Entire home/apt",
+    "latitude": "52.50897356968888",
+    "longitude": "13.397357759716558"
+  },
+  {
+    "id": "3776645",
+    "name": "Large room with private bath and private entrance",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 34,
+    "room_type": "Private room",
+    "latitude": "52.54979486205298",
+    "longitude": "13.380987534248552"
+  },
+  {
+    "id": "8030523",
+    "name": "Beautiful room AAA location",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 35,
+    "room_type": "Private room",
+    "latitude": "52.4976462077819",
+    "longitude": "13.353160840865128"
+  },
+  {
+    "id": "4067448",
+    "name": "flat or room in friedrichshain",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 28,
+    "room_type": "Private room",
+    "latitude": "52.51209179162262",
+    "longitude": "13.469098366401653"
+  },
+  {
+    "id": "13709418",
+    "name": "Cozy apartment at Boxhagener Platz",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 74,
+    "room_type": "Entire home/apt",
+    "latitude": "52.511346159729925",
+    "longitude": "13.461540583387144"
+  },
+  {
+    "id": "15307995",
+    "name": "PAVILION FOR TWO+",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 75,
+    "room_type": "Entire home/apt",
+    "latitude": "52.49635848650335",
+    "longitude": "13.48751048759403"
+  },
+  {
+    "id": "3988752",
+    "name": "Beautiful Studio in Neukölln",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 60,
+    "room_type": "Entire home/apt",
+    "latitude": "52.474652757166815",
+    "longitude": "13.42429624104574"
+  },
+  {
+    "id": "1829767",
+    "name": "Lovely and quiet in nice neighborhood",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 40,
+    "room_type": "Entire home/apt",
+    "latitude": "52.47285130202055",
+    "longitude": "13.423147058995976"
+  },
+  {
+    "id": "14893613",
+    "name": "Ruhe-Oase City-West nähe Zoo; ZOB; Messe; für 1-2",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 29,
+    "room_type": "Private room",
+    "latitude": "52.515082630954794",
+    "longitude": "13.310820784343688"
+  },
+  {
+    "id": "7140154",
+    "name": "Luxury for couples or new parents",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 126,
+    "room_type": "Entire home/apt",
+    "latitude": "52.534766203500574",
+    "longitude": "13.402599840038265"
+  },
+  {
+    "id": "7687457",
+    "name": "Penthouse in Mitte, 102m²",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 110,
+    "room_type": "Entire home/apt",
+    "latitude": "52.534701578819586",
+    "longitude": "13.404106145776494"
+  },
+  {
+    "id": "11564181",
+    "name": "Beautiful room for two in Kreuzberg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 47,
+    "room_type": "Private room",
+    "latitude": "52.49140866402345",
+    "longitude": "13.416603122524139"
+  },
+  {
+    "id": "11529058",
+    "name": "Private Room in Central Location",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 43,
+    "room_type": "Private room",
+    "latitude": "52.523414724273515",
+    "longitude": "13.352460266957488"
+  },
+  {
+    "id": "304904",
+    "name": "bedroom with your own bath",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 37,
+    "room_type": "Entire home/apt",
+    "latitude": "52.55293693785537",
+    "longitude": "13.404477353846184"
+  },
+  {
+    "id": "14023540",
+    "name": "Gemütliches Zimmer im Prenzlauer Kiez",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 30,
+    "room_type": "Private room",
+    "latitude": "52.55522856891083",
+    "longitude": "13.409195419340257"
+  },
+  {
+    "id": "15157035",
+    "name": "Spacious ROOM in the heart of Prenzlauer Berg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 60,
+    "room_type": "Private room",
+    "latitude": "52.542011197542834",
+    "longitude": "13.410580769561461"
+  },
+  {
+    "id": "13206979",
+    "name": "1-Zimmer Apartment in Prenzlauer Berg/Mitte",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 69,
+    "room_type": "Entire home/apt",
+    "latitude": "52.530151111627895",
+    "longitude": "13.40929603273514"
+  },
+  {
+    "id": "14244897",
+    "name": "The Courtyard Spacious Room in Prenzlauer Berg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 34,
+    "room_type": "Private room",
+    "latitude": "52.53757565389898",
+    "longitude": "13.42460580879173"
+  },
+  {
+    "id": "14553182",
+    "name": "Large private room+ensuite bathroom in modern loft",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 58,
+    "room_type": "Private room",
+    "latitude": "52.54360055108575",
+    "longitude": "13.412078442120789"
+  },
+  {
+    "id": "7361118",
+    "name": "gemütliche Wohnung am Schloss/See",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 35,
+    "room_type": "Entire home/apt",
+    "latitude": "52.514489088074924",
+    "longitude": "13.288905906673403"
+  },
+  {
+    "id": "223023",
+    "name": "Room in beautiful area Kreuzberg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 45,
+    "room_type": "Private room",
+    "latitude": "52.495962639141645",
+    "longitude": "13.39897387800235"
+  },
+  {
+    "id": "3659224",
+    "name": "145 m2 Two-Storey Penthouse",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 115,
+    "room_type": "Entire home/apt",
+    "latitude": "52.50715934547568",
+    "longitude": "13.28544476935979"
+  },
+  {
+    "id": "14105805",
+    "name": "Apartment in the center of Berlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 85,
+    "room_type": "Entire home/apt",
+    "latitude": "52.49979066867251",
+    "longitude": "13.310661305275811"
+  },
+  {
+    "id": "9231931",
+    "name": "Beautiful room near Tempelhofer Feld",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 24,
+    "room_type": "Private room",
+    "latitude": "52.47680753909006",
+    "longitude": "13.427246097671764"
+  },
+  {
+    "id": "13183276",
+    "name": "Bright Neükolln room with Balcony.U-bahn 100m",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 40,
+    "room_type": "Private room",
+    "latitude": "52.48070308348646",
+    "longitude": "13.432737778048928"
+  },
+  {
+    "id": "72476",
+    "name": "Nice & sunny room in Now-kölln",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 30,
+    "room_type": "Private room",
+    "latitude": "52.49185051261632",
+    "longitude": "13.426560245489032"
+  },
+  {
+    "id": "8543792",
+    "name": "Sunny Room Close to FU Berlin w/ Roof-Deck Terrace",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 57,
+    "room_type": "Private room",
+    "latitude": "52.427669376711165",
+    "longitude": "13.304741717017933"
+  },
+  {
+    "id": "16426286",
+    "name": "quiet room centrally located",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 40,
+    "room_type": "Private room",
+    "latitude": "52.47737790033044",
+    "longitude": "13.431718443617612"
+  },
+  {
+    "id": "14986986",
+    "name": "5* City near Kurfürstendamm/ Wi-Fi",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 25,
+    "room_type": "Private room",
+    "latitude": "52.49165308657265",
+    "longitude": "13.31609880952566"
+  },
+  {
+    "id": "5818160",
+    "name": "Chalet Treptow",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 89,
+    "room_type": "Entire home/apt",
+    "latitude": "52.43473794622312",
+    "longitude": "13.51396157963606"
+  },
+  {
+    "id": "13552393",
+    "name": "2 Bedroom + quiet garden + Kollwitzplatz!",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 114,
+    "room_type": "Entire home/apt",
+    "latitude": "52.53992314951404",
+    "longitude": "13.416598257411742"
+  },
+  {
+    "id": "14544930",
+    "name": "central, cosy room in Friedrichshain",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 50,
+    "room_type": "Private room",
+    "latitude": "52.515929944081044",
+    "longitude": "13.46979212724312"
+  },
+  {
+    "id": "16608497",
+    "name": "400m² Luxurious Loft Berlin-Mitte with A/C",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 70,
+    "room_type": "Private room",
+    "latitude": "52.52335160738401",
+    "longitude": "13.352070999856378"
+  },
+  {
+    "id": "1084480",
+    "name": "The Tiergarten to stay for holiday",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 38,
+    "room_type": "Private room",
+    "latitude": "52.519940204407646",
+    "longitude": "13.343014428537472"
+  },
+  {
+    "id": "3269097",
+    "name": "Quiet and charming place",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 75,
+    "room_type": "Entire home/apt",
+    "latitude": "52.554428577013574",
+    "longitude": "13.348064356091212"
+  },
+  {
+    "id": "1146439",
+    "name": "Sunny Room Dachterrasse Über Bärlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 32,
+    "room_type": "Private room",
+    "latitude": "52.505523558927514",
+    "longitude": "13.410264059158116"
+  },
+  {
+    "id": "2365615",
+    "name": "si belle Souterrain",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 60,
+    "room_type": "Entire home/apt",
+    "latitude": "52.49074387022611",
+    "longitude": "13.392463920815613"
+  },
+  {
+    "id": "127708",
+    "name": "Design Jewel in the midst of MITTE!",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 89,
+    "room_type": "Entire home/apt",
+    "latitude": "52.51964880397617",
+    "longitude": "13.410989725180972"
+  },
+  {
+    "id": "16775751",
+    "name": "Room + garden: breathtaking view of Spree River!",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 62,
+    "room_type": "Private room",
+    "latitude": "52.51051126118783",
+    "longitude": "13.407924969023515"
+  },
+  {
+    "id": "2341208",
+    "name": "BEAUTIFUL SPACE - PERFECT LOCATION",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 32,
+    "room_type": "Private room",
+    "latitude": "52.54689975545382",
+    "longitude": "13.404878853950914"
+  },
+  {
+    "id": "4813944",
+    "name": "Modern Loft for 2, Prenzlauer Berg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 105,
+    "room_type": "Entire home/apt",
+    "latitude": "52.54281957555805",
+    "longitude": "13.41207257433868"
+  },
+  {
+    "id": "3508834",
+    "name": "private room in Berlin Mitte",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 55,
+    "room_type": "Private room",
+    "latitude": "52.531872134687184",
+    "longitude": "13.390937948889471"
+  },
+  {
+    "id": "1251299",
+    "name": "sunny and cosy",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 63,
+    "room_type": "Entire home/apt",
+    "latitude": "52.534019361774064",
+    "longitude": "13.396519061214148"
+  },
+  {
+    "id": "14582783",
+    "name": "Peaceful room to relax in emerald colours",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 35,
+    "room_type": "Private room",
+    "latitude": "52.536290501608235",
+    "longitude": "13.382995679604912"
+  },
+  {
+    "id": "6818021",
+    "name": "Luxury 2Bed NEST in cool Kreuzberg!",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 138,
+    "room_type": "Entire home/apt",
+    "latitude": "52.50301124498515",
+    "longitude": "13.439657433068326"
+  },
+  {
+    "id": "708929",
+    "name": "Room with Panorama View in Midtown",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 32,
+    "room_type": "Private room",
+    "latitude": "52.51334782824842",
+    "longitude": "13.417282377017825"
+  },
+  {
+    "id": "15930249",
+    "name": "stylish design rooftop / next to public transport",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 35,
+    "room_type": "Private room",
+    "latitude": "52.465508180706465",
+    "longitude": "13.430652767685235"
+  },
+  {
+    "id": "16050179",
+    "name": "schönes helles Zi.i.Friedrichshain FABLEENS ROOM",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 22,
+    "room_type": "Private room",
+    "latitude": "52.51042119202768",
+    "longitude": "13.46542647994597"
+  },
+  {
+    "id": "10845382",
+    "name": "Cozy room in a vibrant area",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 28,
+    "room_type": "Private room",
+    "latitude": "52.499793050469286",
+    "longitude": "13.463398959694581"
+  },
+  {
+    "id": "16810369",
+    "name": "home in Neukölln with 2 bikes",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 46,
+    "room_type": "Entire home/apt",
+    "latitude": "52.47905287182281",
+    "longitude": "13.4224033088808"
+  },
+  {
+    "id": "14704310",
+    "name": "Central&well connected - perfect for groups/family",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 35,
+    "room_type": "Private room",
+    "latitude": "52.48006658049435",
+    "longitude": "13.347621792943889"
+  },
+  {
+    "id": "1140239",
+    "name": "City West Charlottenburg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 25,
+    "room_type": "Entire home/apt",
+    "latitude": "52.51670062854446",
+    "longitude": "13.307629401540177"
+  },
+  {
+    "id": "10054818",
+    "name": "apartment in berlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 100,
+    "room_type": "Entire home/apt",
+    "latitude": "52.51225926103283",
+    "longitude": "13.45539991665019"
+  },
+  {
+    "id": "9002117",
+    "name": "5th Floor Apt., Magnificent Views",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 87,
+    "room_type": "Entire home/apt",
+    "latitude": "52.517280206974235",
+    "longitude": "13.275530660028924"
+  },
+  {
+    "id": "16091735",
+    "name": "2bed, 2 bath + Carpark, Apartment in Mitte",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 165,
+    "room_type": "Entire home/apt",
+    "latitude": "52.51287625530129",
+    "longitude": "13.410350668330725"
+  },
+  {
+    "id": "6580047",
+    "name": "Samariterkiez - Zi** schön, ruhig",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 50,
+    "room_type": "Private room",
+    "latitude": "52.517139175709346",
+    "longitude": "13.471550152982523"
+  },
+  {
+    "id": "4362185",
+    "name": "Loftwohnung in Berlin-Mitte",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 370,
+    "room_type": "Entire home/apt",
+    "latitude": "52.52755775318331",
+    "longitude": "13.403681920362121"
+  },
+  {
+    "id": "8927974",
+    "name": "Berlin@its best: central&cozy room",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 41,
+    "room_type": "Private room",
+    "latitude": "52.52298061673779",
+    "longitude": "13.405843940248834"
+  },
+  {
+    "id": "15655289",
+    "name": "Altbautraum im Romantikerviertel in Berlin Mitte",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 53,
+    "room_type": "Private room",
+    "latitude": "52.52997454688984",
+    "longitude": "13.389040210579683"
+  },
+  {
+    "id": "9141729",
+    "name": "23qm Zimmer in Moabit, nahe Turmstr",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 29,
+    "room_type": "Private room",
+    "latitude": "52.527692377591",
+    "longitude": "13.32621617479015"
+  },
+  {
+    "id": "16250536",
+    "name": "DESIGN APARTMENT by BENSIMON (3 ROOMS & 85 SQM) I",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 125,
+    "room_type": "Entire home/apt",
+    "latitude": "52.53400182804328",
+    "longitude": "13.327780195620136"
+  },
+  {
+    "id": "8144073",
+    "name": "♡♡♡ Cosy little room in Berlin Wedding ♡♡♡",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 31,
+    "room_type": "Private room",
+    "latitude": "52.54257221688185",
+    "longitude": "13.358689166572319"
+  },
+  {
+    "id": "16298921",
+    "name": "Super central great room",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 30,
+    "room_type": "Private room",
+    "latitude": "52.50600020069271",
+    "longitude": "13.395633064437543"
+  },
+  {
+    "id": "251984",
+    "name": "Coming Home In The Heart Of Berlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 75,
+    "room_type": "Entire home/apt",
+    "latitude": "52.50013414631546",
+    "longitude": "13.388454364348169"
+  },
+  {
+    "id": "18614480",
+    "name": "Cosy Room in Nice Altbau Flat in Berlin Kreuzberg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 50,
+    "room_type": "Private room",
+    "latitude": "52.492311409910045",
+    "longitude": "13.395148505984492"
+  },
+  {
+    "id": "7590186",
+    "name": "Unique and Cosy atmosphere in Kreuzberg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 47,
+    "room_type": "Private room",
+    "latitude": "52.48931044548858",
+    "longitude": "13.388725308345373"
+  },
+  {
+    "id": "13388102",
+    "name": "Xanadou Residence",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 35,
+    "room_type": "Private room",
+    "latitude": "52.49185183936128",
+    "longitude": "13.421642341249257"
+  },
+  {
+    "id": "17507091",
+    "name": "Cozy room, huge flat, top location (P-Berg)",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 26,
+    "room_type": "Private room",
+    "latitude": "52.54112475935053",
+    "longitude": "13.41228070478222"
+  },
+  {
+    "id": "738921",
+    "name": "LARGE QUIET APT PRENZELBERG/MITTE",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 80,
+    "room_type": "Entire home/apt",
+    "latitude": "52.53092064660344",
+    "longitude": "13.418145410461596"
+  },
+  {
+    "id": "264459",
+    "name": "Central, cosy and one-of-a-kind",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 60,
+    "room_type": "Entire home/apt",
+    "latitude": "52.53203418577178",
+    "longitude": "13.417054215883228"
+  },
+  {
+    "id": "15947545",
+    "name": "Clean & bright room close to centre of Westberlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 28,
+    "room_type": "Private room",
+    "latitude": "52.49463105969478",
+    "longitude": "13.335528427127569"
+  },
+  {
+    "id": "11165066",
+    "name": "Schöne helle Dachgeschosswohnung",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 51,
+    "room_type": "Private room",
+    "latitude": "52.44846188378922",
+    "longitude": "13.307382768194353"
+  },
+  {
+    "id": "4017026",
+    "name": "UNICORN-ROOM w. PRIVATE BATH- BOUTIQUE HOTEL STYLE",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 50,
+    "room_type": "Private room",
+    "latitude": "52.48602448039948",
+    "longitude": "13.46576266388414"
+  },
+  {
+    "id": "4659696",
+    "name": "Big room up to 3 people in Berlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 28,
+    "room_type": "Private room",
+    "latitude": "52.46803981055408",
+    "longitude": "13.491509719914221"
+  },
+  {
+    "id": "206965",
+    "name": "80 m² full of charm, flair & light",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 39,
+    "room_type": "Entire home/apt",
+    "latitude": "52.47704945259497",
+    "longitude": "13.448804507743787"
+  },
+  {
+    "id": "13123182",
+    "name": "Cosy room with balcony in trendy Neukölln",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 40,
+    "room_type": "Private room",
+    "latitude": "52.493119336477115",
+    "longitude": "13.42552823994084"
+  },
+  {
+    "id": "187206",
+    "name": "Bed",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 25,
+    "room_type": "Private room",
+    "latitude": "52.56334466720359",
+    "longitude": "13.388021573580916"
+  },
+  {
+    "id": "15910869",
+    "name": "Cozy apartment in Mitte",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 65,
+    "room_type": "Entire home/apt",
+    "latitude": "52.527072344814194",
+    "longitude": "13.399862756357635"
+  },
+  {
+    "id": "3854136",
+    "name": "Beste Lage, ruhig, mit Balkon",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 55,
+    "room_type": "Private room",
+    "latitude": "52.533887843684234",
+    "longitude": "13.407300027522815"
+  },
+  {
+    "id": "16252509",
+    "name": "MODERN DESIGN APARTMENT (4 ROOMS & 110 SQM) II",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 100,
+    "room_type": "Entire home/apt",
+    "latitude": "52.532544081861055",
+    "longitude": "13.326437668693876"
+  },
+  {
+    "id": "11253665",
+    "name": "Cozy room in central location",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 33,
+    "room_type": "Private room",
+    "latitude": "52.551260052758906",
+    "longitude": "13.379228531134482"
+  },
+  {
+    "id": "16416584",
+    "name": "Apartment im Prenzlauer Berg III",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 79,
+    "room_type": "Entire home/apt",
+    "latitude": "52.544032884971244",
+    "longitude": "13.422371269694654"
+  },
+  {
+    "id": "15660060",
+    "name": "Altbautraum im Romantikerviertel in Berlin Mitte",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 70,
+    "room_type": "Private room",
+    "latitude": "52.53086495536179",
+    "longitude": "13.38797975447001"
+  },
+  {
+    "id": "13894531",
+    "name": "Imagine Berlin...!!2",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 59,
+    "room_type": "Private room",
+    "latitude": "52.50332543356623",
+    "longitude": "13.387535965244018"
+  },
+  {
+    "id": "8559541",
+    "name": "Gemütliches zimmer unweit mauerpark",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 27,
+    "room_type": "Private room",
+    "latitude": "52.54955253186194",
+    "longitude": "13.406295717705728"
+  },
+  {
+    "id": "4385733",
+    "name": "Roomy flat in the heart of Berlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 75,
+    "room_type": "Entire home/apt",
+    "latitude": "52.54948525346099",
+    "longitude": "13.412156850315894"
+  },
+  {
+    "id": "986428",
+    "name": "Your Sunny Home in Charlottenburg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 45,
+    "room_type": "Private room",
+    "latitude": "52.512718038701344",
+    "longitude": "13.28800614782622"
+  },
+  {
+    "id": "16142868",
+    "name": "Cosy and silent room in Prenzlauer Berg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 42,
+    "room_type": "Private room",
+    "latitude": "52.537728122122274",
+    "longitude": "13.423558213145734"
+  },
+  {
+    "id": "16576294",
+    "name": "Cosy room Berlin City Centre",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 35,
+    "room_type": "Private room",
+    "latitude": "52.52846015128771",
+    "longitude": "13.454882911955828"
+  },
+  {
+    "id": "2363643",
+    "name": "Penthouse /w Terrace: Perfect views",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 80,
+    "room_type": "Entire home/apt",
+    "latitude": "52.53892660878079",
+    "longitude": "13.409462145481381"
+  },
+  {
+    "id": "654038",
+    "name": "Living in a Loft - Bed n Breakfast",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 50,
+    "room_type": "Private room",
+    "latitude": "52.51494147527762",
+    "longitude": "13.45013669558195"
+  },
+  {
+    "id": "9197247",
+    "name": "Spacious room in Friedrichshain",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 32,
+    "room_type": "Private room",
+    "latitude": "52.51689884121448",
+    "longitude": "13.463943964910559"
+  },
+  {
+    "id": "13188509",
+    "name": "Huge room in beautiful apartment in Friedrichshain",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 60,
+    "room_type": "Private room",
+    "latitude": "52.50796387148048",
+    "longitude": "13.46321868253356"
+  },
+  {
+    "id": "1947907",
+    "name": "Messe-Nähe,2-Zi.-Whg.(Bungalow)",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 89,
+    "room_type": "Entire home/apt",
+    "latitude": "52.51402116531422",
+    "longitude": "13.262595146084687"
+  },
+  {
+    "id": "11668023",
+    "name": "Gemütliches Zimmer zum Entspannen",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 30,
+    "room_type": "Private room",
+    "latitude": "52.50643458772053",
+    "longitude": "13.495912286999925"
+  },
+  {
+    "id": "13369070",
+    "name": "Calm & cosy room with piano at Checkpoint Charlie",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 50,
+    "room_type": "Private room",
+    "latitude": "52.510075436241095",
+    "longitude": "13.390786816141793"
+  },
+  {
+    "id": "8037648",
+    "name": "Nah an der City und doch schön grün",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 42,
+    "room_type": "Private room",
+    "latitude": "52.46353148163655",
+    "longitude": "13.382830006578493"
+  },
+  {
+    "id": "10110547",
+    "name": "Urban Gallery Loft. Newly renovated",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 99,
+    "room_type": "Entire home/apt",
+    "latitude": "52.50928102570395",
+    "longitude": "13.446005820584055"
+  },
+  {
+    "id": "12103838",
+    "name": "Cute Room Overlooking Punk Street in Family Space",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 30,
+    "room_type": "Private room",
+    "latitude": "52.51664995480365",
+    "longitude": "13.463659908612922"
+  },
+  {
+    "id": "6744830",
+    "name": "lovely room in friedrichshain with balcony",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 68,
+    "room_type": "Entire home/apt",
+    "latitude": "52.51665206643508",
+    "longitude": "13.457199964682287"
+  },
+  {
+    "id": "8898542",
+    "name": "Elegant Flat,2 bedrooms,2 bathrooms",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 139,
+    "room_type": "Entire home/apt",
+    "latitude": "52.546107575191726",
+    "longitude": "13.418888533531744"
+  },
+  {
+    "id": "16768272",
+    "name": "Cosy room in the hippest area of Berlin Mitte",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 59,
+    "room_type": "Private room",
+    "latitude": "52.52739000293885",
+    "longitude": "13.399242194181731"
+  },
+  {
+    "id": "17115583",
+    "name": "Beautiful room with own balcony and perfect view.",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 47,
+    "room_type": "Private room",
+    "latitude": "52.50025583099432",
+    "longitude": "13.430457726115245"
+  },
+  {
+    "id": "11386702",
+    "name": "Ferienhaus über 2 Etg. mit Terrasse",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 60,
+    "room_type": "Entire home/apt",
+    "latitude": "52.603966341563456",
+    "longitude": "13.318052581697104"
+  },
+  {
+    "id": "9707618",
+    "name": "The TUCHOLSKY Loft: Luxus in MITTE!",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 129,
+    "room_type": "Entire home/apt",
+    "latitude": "52.52745880979966",
+    "longitude": "13.39453037362039"
+  },
+  {
+    "id": "1353146",
+    "name": "Wonderful sunny flat",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 150,
+    "room_type": "Entire home/apt",
+    "latitude": "52.50553658241843",
+    "longitude": "13.400364819998352"
+  },
+  {
+    "id": "17262468",
+    "name": "Sunny room Dachterrasse über Berlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 35,
+    "room_type": "Private room",
+    "latitude": "52.5000780514096",
+    "longitude": "13.414943767591602"
+  },
+  {
+    "id": "18220853",
+    "name": "Sunny Apartment in Prenzlauer Berg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 89,
+    "room_type": "Entire home/apt",
+    "latitude": "52.55107206623783",
+    "longitude": "13.423415566852258"
+  },
+  {
+    "id": "16670084",
+    "name": "Privatzimmer Berlin, Prenzl. Berg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 28,
+    "room_type": "Private room",
+    "latitude": "52.537248952251275",
+    "longitude": "13.421520192853169"
+  },
+  {
+    "id": "15933377",
+    "name": "5* Wohnung nahe Kurfürstendamm/WiFi",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 59,
+    "room_type": "Entire home/apt",
+    "latitude": "52.49002840876853",
+    "longitude": "13.317474359477247"
+  },
+  {
+    "id": "5369564",
+    "name": "Luxury , wood and Atmosphere",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 88,
+    "room_type": "Entire home/apt",
+    "latitude": "52.48249022886282",
+    "longitude": "13.316460900048316"
+  },
+  {
+    "id": "16300528",
+    "name": "Cool and Spacious Room in Neukölln",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 45,
+    "room_type": "Private room",
+    "latitude": "52.48262617197003",
+    "longitude": "13.43231911580255"
+  },
+  {
+    "id": "253128",
+    "name": "Studion Apartment in Kreuzkölln",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 49,
+    "room_type": "Entire home/apt",
+    "latitude": "52.49114251607383",
+    "longitude": "13.428309945009278"
+  },
+  {
+    "id": "8838723",
+    "name": "Große Altbauwohnung Berlin/Steglitz",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 25,
+    "room_type": "Private room",
+    "latitude": "52.46336660921938",
+    "longitude": "13.339814070937678"
+  },
+  {
+    "id": "18262514",
+    "name": "Große Wohnung in ruhiger Lage",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 47,
+    "room_type": "Entire home/apt",
+    "latitude": "52.43673017253153",
+    "longitude": "13.306297273810891"
+  },
+  {
+    "id": "4432965",
+    "name": "Big and bright room in Berlin!",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 28,
+    "room_type": "Private room",
+    "latitude": "52.46647394291996",
+    "longitude": "13.491634179154266"
+  },
+  {
+    "id": "8638365",
+    "name": "Maisonette Remise Xberg/Neukölln",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 200,
+    "room_type": "Entire home/apt",
+    "latitude": "52.49397038687479",
+    "longitude": "13.436664373301662"
+  },
+  {
+    "id": "1401985",
+    "name": "Your bright apartment in the heart of Kreuzberg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 85,
+    "room_type": "Private room",
+    "latitude": "52.499351365497375",
+    "longitude": "13.437170475305539"
+  },
+  {
+    "id": "7337068",
+    "name": "Sehr ruhiges Studio direkt am Park",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 79,
+    "room_type": "Entire home/apt",
+    "latitude": "52.487169919692384",
+    "longitude": "13.38135046462473"
+  },
+  {
+    "id": "194465",
+    "name": "Beautiful Loft-Studio with garden",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 70,
+    "room_type": "Private room",
+    "latitude": "52.520442263765545",
+    "longitude": "13.444983885777429"
+  },
+  {
+    "id": "16223878",
+    "name": "Großes Altbauzimmer, Gästezimmer",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 34,
+    "room_type": "Private room",
+    "latitude": "52.55181810215158",
+    "longitude": "13.36906912525876"
+  },
+  {
+    "id": "3825761",
+    "name": "Großes Zimmer mit Blick auf Alex",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 59,
+    "room_type": "Private room",
+    "latitude": "52.52425863487164",
+    "longitude": "13.406462628099879"
+  },
+  {
+    "id": "12940319",
+    "name": "Great Location in Kreuzkölln",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 35,
+    "room_type": "Private room",
+    "latitude": "52.49370757160676",
+    "longitude": "13.425288641134568"
+  },
+  {
+    "id": "2591901",
+    "name": "City Centre Ost Perfekt gelegen",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 33,
+    "room_type": "Private room",
+    "latitude": "52.512124680399005",
+    "longitude": "13.478937654309078"
+  },
+  {
+    "id": "17418993",
+    "name": "Zimmer im Luxushaus mit Frühstück",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 27,
+    "room_type": "Private room",
+    "latitude": "52.61996024955105",
+    "longitude": "13.227013844732332"
+  },
+  {
+    "id": "3966898",
+    "name": "Sunny, quiet room in Charlottenburg, Berlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 42,
+    "room_type": "Private room",
+    "latitude": "52.51586519153399",
+    "longitude": "13.304439453649884"
+  },
+  {
+    "id": "9967768",
+    "name": "Quiet Room at Boxhagener Platz",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 42,
+    "room_type": "Private room",
+    "latitude": "52.51147468902631",
+    "longitude": "13.456244396735062"
+  },
+  {
+    "id": "2965875",
+    "name": "Über den Dächern von Berlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 130,
+    "room_type": "Entire home/apt",
+    "latitude": "52.507668401400416",
+    "longitude": "13.320273901299277"
+  },
+  {
+    "id": "7817706",
+    "name": "Cozy and sunny room to stay!",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 31,
+    "room_type": "Private room",
+    "latitude": "52.54257092126878",
+    "longitude": "13.374604547342514"
+  },
+  {
+    "id": "3900688",
+    "name": "Beautiful Room in Central Berlin!",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 33,
+    "room_type": "Private room",
+    "latitude": "52.48343810290157",
+    "longitude": "13.360758714202605"
+  },
+  {
+    "id": "16686553",
+    "name": "Spacious room in modern, quiet apt. downtown.",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 29,
+    "room_type": "Private room",
+    "latitude": "52.51948815489841",
+    "longitude": "13.448840885877157"
+  },
+  {
+    "id": "11018730",
+    "name": "Charming very sunny flat \"Altbau\"",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 82,
+    "room_type": "Entire home/apt",
+    "latitude": "52.553498318171066",
+    "longitude": "13.430948360087685"
+  },
+  {
+    "id": "8331619",
+    "name": "Spacious room, centrally, garden",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 49,
+    "room_type": "Private room",
+    "latitude": "52.4875320805573",
+    "longitude": "13.311362628884485"
+  },
+  {
+    "id": "16828628",
+    "name": "5*...Nähe Kurfürstendamm/Wi-Fi/Breakfast",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 28,
+    "room_type": "Private room",
+    "latitude": "52.4896443273852",
+    "longitude": "13.317343633132829"
+  },
+  {
+    "id": "16541999",
+    "name": "KreuzCasa",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 47,
+    "room_type": "Private room",
+    "latitude": "52.493819642319146",
+    "longitude": "13.39902830905558"
+  },
+  {
+    "id": "7872193",
+    "name": "Room in Art Noveau Apartment",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 62,
+    "room_type": "Private room",
+    "latitude": "52.488422628341525",
+    "longitude": "13.376564713838787"
+  },
+  {
+    "id": "14892197",
+    "name": "Gemütliches Zimmer in Kreuzberg (Bergmannkiez)",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 40,
+    "room_type": "Private room",
+    "latitude": "52.48826550680326",
+    "longitude": "13.39245334404633"
+  },
+  {
+    "id": "7832750",
+    "name": "Sonniges Doppelzimmer+Nice Price!",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 28,
+    "room_type": "Private room",
+    "latitude": "52.58231232676322",
+    "longitude": "13.395584373495467"
+  },
+  {
+    "id": "14386263",
+    "name": "Zu Hause in Berlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 63,
+    "room_type": "Entire home/apt",
+    "latitude": "52.54254026545505",
+    "longitude": "13.42395526445047"
+  },
+  {
+    "id": "12337676",
+    "name": "gemütliches Zimmer mit eigenem Bad",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 38,
+    "room_type": "Private room",
+    "latitude": "52.52869279119736",
+    "longitude": "13.554333173339682"
+  },
+  {
+    "id": "16253878",
+    "name": "cosy quiet room in Berlin central",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 45,
+    "room_type": "Private room",
+    "latitude": "52.526551654188225",
+    "longitude": "13.39152235338188"
+  },
+  {
+    "id": "2394841",
+    "name": "In Mitte at Alex 2 light rooms",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 62,
+    "room_type": "Private room",
+    "latitude": "52.522797097539254",
+    "longitude": "13.407900812184826"
+  },
+  {
+    "id": "17603808",
+    "name": "Comfortable room in the heart of Kreuzberg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 28,
+    "room_type": "Private room",
+    "latitude": "52.50041328146567",
+    "longitude": "13.431820397566746"
+  },
+  {
+    "id": "8858309",
+    "name": "kleines Apartment in Kreuzberg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 55,
+    "room_type": "Entire home/apt",
+    "latitude": "52.50522028062612",
+    "longitude": "13.401538014467663"
+  },
+  {
+    "id": "2098124",
+    "name": "Creative + Renovated + Cool Bergmannkiez",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 60,
+    "room_type": "Entire home/apt",
+    "latitude": "52.48985734627915",
+    "longitude": "13.376536652059995"
+  },
+  {
+    "id": "11168535",
+    "name": "Charming quiet 3room apartment easy airport access",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 125,
+    "room_type": "Entire home/apt",
+    "latitude": "52.54640465180104",
+    "longitude": "13.425128547223004"
+  },
+  {
+    "id": "901837",
+    "name": "Prenzlauer Berg Exclusive Apartment",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 135,
+    "room_type": "Entire home/apt",
+    "latitude": "52.538114016610294",
+    "longitude": "13.460034071040763"
+  },
+  {
+    "id": "12865127",
+    "name": "Wohnung zwischen See und Schloss!",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 89,
+    "room_type": "Entire home/apt",
+    "latitude": "52.51545446888283",
+    "longitude": "13.291291583566547"
+  },
+  {
+    "id": "13021834",
+    "name": "Cozy big room with own balcony.",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 37,
+    "room_type": "Private room",
+    "latitude": "52.46865002013656",
+    "longitude": "13.430041377294925"
+  },
+  {
+    "id": "17115066",
+    "name": "Central&well connected, beautiful room",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 35,
+    "room_type": "Private room",
+    "latitude": "52.480014393574486",
+    "longitude": "13.348740837674756"
+  },
+  {
+    "id": "10967950",
+    "name": "Sonnenzimmer im Herzen Schönebergs",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 50,
+    "room_type": "Private room",
+    "latitude": "52.49822422522319",
+    "longitude": "13.338481554498642"
+  },
+  {
+    "id": "8270239",
+    "name": "CHARMING STUDIO WITH A BALCONY",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 50,
+    "room_type": "Entire home/apt",
+    "latitude": "52.50873154884929",
+    "longitude": "13.495396037945234"
+  },
+  {
+    "id": "15652886",
+    "name": "Gemütliches und ruhiges  Zimmer in Berliner Altbau",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 30,
+    "room_type": "Private room",
+    "latitude": "52.51852413792433",
+    "longitude": "13.318250348343247"
+  },
+  {
+    "id": "14663108",
+    "name": "Sichtweite vom KaDeWe, direkt City-West Berlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 74,
+    "room_type": "Entire home/apt",
+    "latitude": "52.50031047973603",
+    "longitude": "13.341803573300668"
+  },
+  {
+    "id": "7526348",
+    "name": "LUX! New Modern Central Quiet Flat in Berlin Mitte",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 94,
+    "room_type": "Entire home/apt",
+    "latitude": "52.53217458579581",
+    "longitude": "13.387277921337732"
+  },
+  {
+    "id": "16067729",
+    "name": "Elegant bright room in Berlin Mitte - Apt. (~1900)",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 55,
+    "room_type": "Private room",
+    "latitude": "52.53061591760714",
+    "longitude": "13.38882962798461"
+  },
+  {
+    "id": "5771842",
+    "name": "Luxury Apartment",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 185,
+    "room_type": "Entire home/apt",
+    "latitude": "52.54770162578563",
+    "longitude": "13.363260259771453"
+  },
+  {
+    "id": "10818423",
+    "name": "cosy room in Friedenau",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 35,
+    "room_type": "Private room",
+    "latitude": "52.46855062032498",
+    "longitude": "13.33093853046535"
+  },
+  {
+    "id": "5418027",
+    "name": "Creative Space Kreuzkölln 48m²",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 56,
+    "room_type": "Entire home/apt",
+    "latitude": "52.48780640653745",
+    "longitude": "13.42999696363255"
+  },
+  {
+    "id": "14268548",
+    "name": "Cozy Room in 2,5-room shared flat (1 roommate)",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 29,
+    "room_type": "Private room",
+    "latitude": "52.48514526622797",
+    "longitude": "13.44467887224855"
+  },
+  {
+    "id": "11558122",
+    "name": "Room.with.Balcony.in.Best.Berlin.Area",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 35,
+    "room_type": "Private room",
+    "latitude": "52.51097399215481",
+    "longitude": "13.456022634174072"
+  },
+  {
+    "id": "13585558",
+    "name": "Beautiful private room in cool Friedrichshain",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 49,
+    "room_type": "Private room",
+    "latitude": "52.51006256021924",
+    "longitude": "13.467300693156837"
+  },
+  {
+    "id": "13215295",
+    "name": "Freundliches Zimmer in EFH, Garten, zentral, ruhig",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 39,
+    "room_type": "Private room",
+    "latitude": "52.48947882423529",
+    "longitude": "13.3112620011027"
+  },
+  {
+    "id": "15566936",
+    "name": "5* Quit near Kurfürstendamm/ Wi-Fi",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 26,
+    "room_type": "Private room",
+    "latitude": "52.49157030437859",
+    "longitude": "13.316994908235182"
+  },
+  {
+    "id": "10033310",
+    "name": "Top Central New cosy Berlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 120,
+    "room_type": "Entire home/apt",
+    "latitude": "52.52300163441792",
+    "longitude": "13.390065458357098"
+  },
+  {
+    "id": "1541488",
+    "name": "The SOHO of Berlin • City-Center",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 320,
+    "room_type": "Entire home/apt",
+    "latitude": "52.52534806693705",
+    "longitude": "13.406918552762999"
+  },
+  {
+    "id": "9388227",
+    "name": "Elegant Room on trendy MITTE street",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 50,
+    "room_type": "Private room",
+    "latitude": "52.52518321863677",
+    "longitude": "13.404542859974743"
+  },
+  {
+    "id": "11486971",
+    "name": "Beautiful Apartment in Berlin Mitte",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 75,
+    "room_type": "Entire home/apt",
+    "latitude": "52.509855062959694",
+    "longitude": "13.41612271926106"
+  },
+  {
+    "id": "1491839",
+    "name": "Charming big flat, central location",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 155,
+    "room_type": "Entire home/apt",
+    "latitude": "52.5181737735609",
+    "longitude": "13.455881860091152"
+  },
+  {
+    "id": "6295492",
+    "name": "Familien Wohnung  Berlin-Prenzlberg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 85,
+    "room_type": "Entire home/apt",
+    "latitude": "52.54487200207929",
+    "longitude": "13.423356465254777"
+  },
+  {
+    "id": "4828002",
+    "name": "Big & comfy room in the heart of Prenzlauer Berg!",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 35,
+    "room_type": "Private room",
+    "latitude": "52.54505967407929",
+    "longitude": "13.419495143405118"
+  },
+  {
+    "id": "15539448",
+    "name": "GEMÜTLICH UND ZENTRAL",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 45,
+    "room_type": "Private room",
+    "latitude": "52.52799258561046",
+    "longitude": "13.404649025315166"
+  },
+  {
+    "id": "14287167",
+    "name": "Nice room, 15 min TXL - 25 min city",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 40,
+    "room_type": "Private room",
+    "latitude": "52.55647369167673",
+    "longitude": "13.334990620204932"
+  },
+  {
+    "id": "15189506",
+    "name": "30sqm room - Checkpoint Charlie, right at Metro U6",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 60,
+    "room_type": "Private room",
+    "latitude": "52.50683341774558",
+    "longitude": "13.389699226872404"
+  },
+  {
+    "id": "13708848",
+    "name": "Wonderful private room in the heart of Kreuzberg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 70,
+    "room_type": "Private room",
+    "latitude": "52.49301759937409",
+    "longitude": "13.385383534104085"
+  },
+  {
+    "id": "15770045",
+    "name": "Quiet, bright & cozy in Berlin Kreuzberg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 50,
+    "room_type": "Private room",
+    "latitude": "52.489108103445304",
+    "longitude": "13.406087992773273"
+  },
+  {
+    "id": "929443",
+    "name": "Loft with fantastic Atmosphere",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 165,
+    "room_type": "Entire home/apt",
+    "latitude": "52.52899897696302",
+    "longitude": "13.386776841491702"
+  },
+  {
+    "id": "17100987",
+    "name": "Attic storey 1 room in Berlin MITTE,best area",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 60,
+    "room_type": "Entire home/apt",
+    "latitude": "52.53084656568152",
+    "longitude": "13.397074867474876"
+  },
+  {
+    "id": "9536912",
+    "name": "DESIGN APARTMENT IN BERLIN (5 ROOMS & 140 SQM)",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 150,
+    "room_type": "Entire home/apt",
+    "latitude": "52.53395522287546",
+    "longitude": "13.327901484470274"
+  },
+  {
+    "id": "4375953",
+    "name": "BIG BRIGHT ROOM balcony & art",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 40,
+    "room_type": "Private room",
+    "latitude": "52.539422246913254",
+    "longitude": "13.350368385224723"
+  },
+  {
+    "id": "12541540",
+    "name": "Renovated apartment in the center of Berlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 60,
+    "room_type": "Entire home/apt",
+    "latitude": "52.49422747247982",
+    "longitude": "13.39796068734182"
+  },
+  {
+    "id": "13026782",
+    "name": "Sunny, cozy room in Friedrichshain",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 39,
+    "room_type": "Private room",
+    "latitude": "52.52323954957601",
+    "longitude": "13.445893160967744"
+  },
+  {
+    "id": "1838879",
+    "name": "Ferienremise-Berlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 300,
+    "room_type": "Entire home/apt",
+    "latitude": "52.48642387310697",
+    "longitude": "13.358521426435175"
+  },
+  {
+    "id": "694871",
+    "name": "142m² (1530ft²) -LOFT-FLAT-LOCATION-ART-LOVE ♥♥♥",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 148,
+    "room_type": "Entire home/apt",
+    "latitude": "52.514323404496125",
+    "longitude": "13.454052563525966"
+  },
+  {
+    "id": "12017437",
+    "name": "Studio / Central / Prenzlauer Berg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 59,
+    "room_type": "Entire home/apt",
+    "latitude": "52.53220262137534",
+    "longitude": "13.433797166692125"
+  },
+  {
+    "id": "7594471",
+    "name": "Best City-Base in the heart of Kreuzberg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 58,
+    "room_type": "Private room",
+    "latitude": "52.48776654373309",
+    "longitude": "13.388016938441659"
+  },
+  {
+    "id": "1828107",
+    "name": "Amazing Balcony overlooking Teutoburger Platz",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 98,
+    "room_type": "Entire home/apt",
+    "latitude": "52.53092475864097",
+    "longitude": "13.410568671466445"
+  },
+  {
+    "id": "15941034",
+    "name": "Apartment im Prenzlauer Berg II",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 65,
+    "room_type": "Entire home/apt",
+    "latitude": "52.548015047364196",
+    "longitude": "13.413097764116735"
+  },
+  {
+    "id": "15065899",
+    "name": "New Year in style: 400m2 Luxurious Loft in Mitte",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 250,
+    "room_type": "Private room",
+    "latitude": "52.52444784612794",
+    "longitude": "13.352137340891943"
+  },
+  {
+    "id": "15786458",
+    "name": "bright&cosy room in Neukölln/Kreuzberg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 50,
+    "room_type": "Private room",
+    "latitude": "52.488132273766745",
+    "longitude": "13.43796939677347"
+  },
+  {
+    "id": "16168573",
+    "name": "central room in Prenzlauer Berg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 30,
+    "room_type": "Private room",
+    "latitude": "52.54439901735489",
+    "longitude": "13.420758281913276"
+  },
+  {
+    "id": "13371300",
+    "name": "Beautiful townhouse in Linienstraße, Berlin Mitte",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 199,
+    "room_type": "Entire home/apt",
+    "latitude": "52.52698662263788",
+    "longitude": "13.39140359576162"
+  },
+  {
+    "id": "17804100",
+    "name": "Cozy sunny room with balcony in Berlin Mitte.",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 42,
+    "room_type": "Private room",
+    "latitude": "52.52267187928756",
+    "longitude": "13.405370854620962"
+  },
+  {
+    "id": "214491",
+    "name": "enchanting room in the centre,",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 35,
+    "room_type": "Private room",
+    "latitude": "52.5207625967276",
+    "longitude": "13.381918709025594"
+  },
+  {
+    "id": "6648033",
+    "name": "Bergmann Kiez TOP SPOT",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 65,
+    "room_type": "Entire home/apt",
+    "latitude": "52.48922122507175",
+    "longitude": "13.385263725195049"
+  },
+  {
+    "id": "16543844",
+    "name": "TempelCasa",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 99,
+    "room_type": "Entire home/apt",
+    "latitude": "52.495260021100975",
+    "longitude": "13.401150521719492"
+  },
+  {
+    "id": "9242514",
+    "name": "Altbauwohnung in Kreuzberg/Mitte",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 80,
+    "room_type": "Entire home/apt",
+    "latitude": "52.497785862386486",
+    "longitude": "13.384870809122024"
+  },
+  {
+    "id": "12398605",
+    "name": "Super Studio-Loft in Charlottenburg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 87,
+    "room_type": "Entire home/apt",
+    "latitude": "52.50594567146527",
+    "longitude": "13.294443119582118"
+  },
+  {
+    "id": "1863324",
+    "name": "Beautiful Apartment in Berlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 56,
+    "room_type": "Entire home/apt",
+    "latitude": "52.45417415936548",
+    "longitude": "13.35188151874242"
+  },
+  {
+    "id": "5335113",
+    "name": "Design Apartment",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 90,
+    "room_type": "Entire home/apt",
+    "latitude": "52.43199240934984",
+    "longitude": "13.279178731056916"
+  },
+  {
+    "id": "1967984",
+    "name": "Design apartment in Berlin Zehlendorf",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 70,
+    "room_type": "Entire home/apt",
+    "latitude": "52.430987614167435",
+    "longitude": "13.277811322818023"
+  },
+  {
+    "id": "15073095",
+    "name": "Prettiest Room in Friedrichshain's Best Location !",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 34,
+    "room_type": "Private room",
+    "latitude": "52.50805966419467",
+    "longitude": "13.455407396703656"
+  },
+  {
+    "id": "14676955",
+    "name": "位置相当好Very good location -better than you expect :)",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 99,
+    "room_type": "Entire home/apt",
+    "latitude": "52.50813388775015",
+    "longitude": "13.499489035537975"
+  },
+  {
+    "id": "16237308",
+    "name": "Berlin! Very close to ICC and 15min to TXL :)",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 45,
+    "room_type": "Private room",
+    "latitude": "52.51697385923285",
+    "longitude": "13.303020293694177"
+  },
+  {
+    "id": "9236207",
+    "name": "Charming altbau in F'hain",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 50,
+    "room_type": "Private room",
+    "latitude": "52.514051246681014",
+    "longitude": "13.45640194936309"
+  },
+  {
+    "id": "9971400",
+    "name": "Pearl of Neukölln",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 75,
+    "room_type": "Entire home/apt",
+    "latitude": "52.48290311153557",
+    "longitude": "13.4373828988476"
+  },
+  {
+    "id": "16981264",
+    "name": "Cozy apartment perfectly located",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 35,
+    "room_type": "Private room",
+    "latitude": "52.5131443569769",
+    "longitude": "13.450409126426417"
+  },
+  {
+    "id": "11294127",
+    "name": "70 sqm + access to the spa",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 89,
+    "room_type": "Entire home/apt",
+    "latitude": "52.417638672468975",
+    "longitude": "13.424663178958"
+  },
+  {
+    "id": "6357226",
+    "name": "Sonniges Zimmer mit Balkon",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 26,
+    "room_type": "Private room",
+    "latitude": "52.41984592281355",
+    "longitude": "13.517354949816255"
+  },
+  {
+    "id": "11374200",
+    "name": "SchöneFerienwohnung nähe Messe/ZOB",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 60,
+    "room_type": "Entire home/apt",
+    "latitude": "52.510260601128564",
+    "longitude": "13.284651313623517"
+  },
+  {
+    "id": "16805130",
+    "name": "Big room with balcony next to Tempelhof Field",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 39,
+    "room_type": "Private room",
+    "latitude": "52.47773131474886",
+    "longitude": "13.422037905115813"
+  },
+  {
+    "id": "16039709",
+    "name": "KaDeWe Mitte Berlin Kurfürstendamm",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 74,
+    "room_type": "Entire home/apt",
+    "latitude": "52.50177254157239",
+    "longitude": "13.343882840063749"
+  },
+  {
+    "id": "8188597",
+    "name": "Calm and bright room AAA location",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 35,
+    "room_type": "Private room",
+    "latitude": "52.49841998578579",
+    "longitude": "13.352250661646677"
+  },
+  {
+    "id": "14368620",
+    "name": "Boutique Rooftop Apartment 1237 sqf in City West",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 129,
+    "room_type": "Entire home/apt",
+    "latitude": "52.49940245057773",
+    "longitude": "13.342882203289369"
+  },
+  {
+    "id": "15880310",
+    "name": "Design Gem in Schöneberg. 2 Beds/2 Baths/Balcony",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 130,
+    "room_type": "Entire home/apt",
+    "latitude": "52.48870510482609",
+    "longitude": "13.355076478521546"
+  },
+  {
+    "id": "359917",
+    "name": "Central located quiet place in the City",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 35,
+    "room_type": "Private room",
+    "latitude": "52.49630276819034",
+    "longitude": "13.342814880989101"
+  },
+  {
+    "id": "17767954",
+    "name": "Cozy room with double bed in artist flat share",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 24,
+    "room_type": "Private room",
+    "latitude": "52.501445988350405",
+    "longitude": "13.431682069369693"
+  },
+  {
+    "id": "2995025",
+    "name": "Quiet bedroom near central station",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 35,
+    "room_type": "Private room",
+    "latitude": "52.53615912070113",
+    "longitude": "13.354545428217868"
+  },
+  {
+    "id": "6936087",
+    "name": "Big, airy room with stucco Mitte, incl. breakfast",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 39,
+    "room_type": "Private room",
+    "latitude": "52.533530013069566",
+    "longitude": "13.3355173709164"
+  },
+  {
+    "id": "593269",
+    "name": "cosy historic building (central)",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 65,
+    "room_type": "Entire home/apt",
+    "latitude": "52.53524131186687",
+    "longitude": "13.35631482777602"
+  },
+  {
+    "id": "16298466",
+    "name": "Super central great room with private loggia",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 40,
+    "room_type": "Private room",
+    "latitude": "52.50458267096202",
+    "longitude": "13.397132418639982"
+  },
+  {
+    "id": "8603631",
+    "name": "Best city Location of Kreuzberg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 52,
+    "room_type": "Private room",
+    "latitude": "52.49146859386063",
+    "longitude": "13.38979402150171"
+  },
+  {
+    "id": "8806534",
+    "name": "designed bedroom in 2 room apart",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 39,
+    "room_type": "Private room",
+    "latitude": "52.51828451353215",
+    "longitude": "13.449539551861593"
+  },
+  {
+    "id": "1177924",
+    "name": "Bella Souterrain im Bergmannkiez",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 130,
+    "room_type": "Entire home/apt",
+    "latitude": "52.49149418812047",
+    "longitude": "13.391537824662807"
+  },
+  {
+    "id": "13952797",
+    "name": "Great location in heart of Prenzlauer Berg!",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 40,
+    "room_type": "Private room",
+    "latitude": "52.550569371948946",
+    "longitude": "13.418736162780162"
+  },
+  {
+    "id": "14424131",
+    "name": "Double Room in Prenzlauer Berg",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 36,
+    "room_type": "Private room",
+    "latitude": "52.54936063320825",
+    "longitude": "13.423409339024218"
+  },
+  {
+    "id": "16009186",
+    "name": "Spacious modern room near centre of West Berlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 24,
+    "room_type": "Private room",
+    "latitude": "52.50413274618797",
+    "longitude": "13.292479659899012"
+  },
+  {
+    "id": "6171627",
+    "name": "74 qm zwischen Potsdam und Berlin",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 69,
+    "room_type": "Entire home/apt",
+    "latitude": "52.41111665225925",
+    "longitude": "13.143813278106451"
+  },
+  {
+    "id": "13618121",
+    "name": "Best Apartment in Berlin / 5mins to Alexanderplatz",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 222,
+    "room_type": "Entire home/apt",
+    "latitude": "52.517133516814084",
+    "longitude": "13.430788806820871"
+  },
+  {
+    "id": "6635677",
+    "name": "cute cosy vintage roof  apartment",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 60,
+    "room_type": "Entire home/apt",
+    "latitude": "52.51744405541121",
+    "longitude": "13.46566084817167"
+  },
+  {
+    "id": "14191082",
+    "name": "Design and Garden piece in the midst of MITTE",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 130,
+    "room_type": "Entire home/apt",
+    "latitude": "52.52429464683487",
+    "longitude": "13.40603666218714"
+  },
+  {
+    "id": "10897136",
+    "name": "Stylisch Apartment Berlin Mitte",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 80,
+    "room_type": "Entire home/apt",
+    "latitude": "52.5313230421977",
+    "longitude": "13.380278426073321"
+  },
+  {
+    "id": "5741365",
+    "name": "Berlin-Ferienzimmer City Ost",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 49,
+    "room_type": "Private room",
+    "latitude": "52.53454144269723",
+    "longitude": "13.40006460445118"
+  },
+  {
+    "id": "15559917",
+    "name": "Mitte. Cosy private room in well-located apartment",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 44,
+    "room_type": "Private room",
+    "latitude": "52.53589366527742",
+    "longitude": "13.377597565270671"
+  },
+  {
+    "id": "11997947",
+    "name": "2 bed, 2 bath Zionskirchstr, Mitte",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 179,
+    "room_type": "Entire home/apt",
+    "latitude": "52.536687951557035",
+    "longitude": "13.400817406055829"
+  },
+  {
+    "id": "10963805",
+    "name": "geräumiges Zimmer in Altbauwohnung",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 32,
+    "room_type": "Private room",
+    "latitude": "52.488445932516996",
+    "longitude": "13.427183326227597"
+  },
+  {
+    "id": "14132402",
+    "name": "lovely one room apartment",
+    "city": "Berlin",
+    "country": "Germany",
+    "price": 40,
+    "room_type": "Entire home/apt",
+    "latitude": "52.51051105785794",
+    "longitude": "13.48882104972447"
+  }
+]

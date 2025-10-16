@@ -1,28 +1,32 @@
-import { Link } from "expo-router";
-import { Text, View } from "react-native";
+import listingsData from "@/assets/data/airbnb-listings-full.json";
+import ExploreHeader from "@/components/ExploreHeader";
+import Listings from "@/components/Listings";
+import { Stack } from "expo-router";
+import { useMemo, useState } from "react";
 import { SafeAreaView } from "react-native-safe-area-context";
 
 const ExploreScreen: React.FC = () => {
+  const [category, setCategory] = useState("Tiny homes");
+  const items = useMemo(() => listingsData as any, []);
+
+  const onDataChanged = (category: string) => {
+    setCategory(category);
+  };
   return (
-    <SafeAreaView>
-      <View>
-        <Link href="/(modals)/login">
-          <Text>Login</Text>
-        </Link>
-        <Link href="/(modals)/booking">
-          <Text>Booking</Text>
-        </Link>
-        <Link
-          href={{
-            pathname: "/listing/[id]",
-            params: { id: "1337" },
-          }}
-        >
-          <Text>Listing Details</Text>
-        </Link>
-      </View>
-    </SafeAreaView>
+    <>
+      <Stack.Screen
+        options={{
+          title: "Explore",
+          headerShown: false,
+        }}
+      />
+      <SafeAreaView className={containerStyle}>
+        <ExploreHeader onCategoryChanged={onDataChanged} />
+        <Listings listing={items} category={category} />
+      </SafeAreaView>
+    </>
   );
 };
 
+const containerStyle = "flex-1 bg-white";
 export default ExploreScreen;
