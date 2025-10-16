@@ -1,50 +1,38 @@
-import { Ionicons } from "@expo/vector-icons";
-import { router, Stack } from "expo-router";
-import { TouchableOpacity } from "react-native";
+import { InitialLayout } from "@/components/InitialLayout";
+import { ClerkLoaded, ClerkProvider } from "@clerk/clerk-expo";
+import * as SecureStore from "expo-secure-store";
 import "./globals.css";
+
+const CLERK_PUBLISHABLE_KEY = process.env.EXPO_PUBLIC_CLERK_PUBLISHABLE_KEY;
+
+if (!CLERK_PUBLISHABLE_KEY) {
+  throw new Error("Missing Clerk publishable key");
+}
+
+const tokenCache = {
+  async getToken(key: string) {
+    try {
+      return SecureStore.getItemAsync(key);
+    } catch (error) {
+      return null;
+    }
+  },
+  async saveToken(key: string, value: string) {
+    try {
+      await SecureStore.setItemAsync(key, value);
+    } catch (error) {}
+  },
+};
 
 export default function RootLayout() {
   return (
-    <Stack>
-      <Stack.Screen name="(tabs)" options={{ headerShown: false }} />
-      <Stack.Screen
-        name="(modals)/login"
-        options={{
-          title: "Log in or sign up",
-          presentation: "modal",
-          headerTitleAlign: "center",
-          headerLeft: ({}) => (
-            <TouchableOpacity onPress={() => router.back()}>
-              <Ionicons name="close" size={24} color="black" />
-            </TouchableOpacity>
-          ),
-        }}
-      />
-      <Stack.Screen
-        name="listing/[id]"
-        options={{
-          headerTitleAlign: "center",
-          headerTitle: "Listings",
-          headerLeft: ({}) => (
-            <TouchableOpacity onPress={() => router.back()}>
-              <Ionicons name="close" size={24} color="black" />
-            </TouchableOpacity>
-          ),
-        }}
-      />
-      <Stack.Screen
-        name="(modals)/booking"
-        options={{
-          title: "Booking",
-          presentation: "modal",
-          headerTitleAlign: "center",
-          headerLeft: ({}) => (
-            <TouchableOpacity onPress={() => router.back()}>
-              <Ionicons name="close" size={24} color="black" />
-            </TouchableOpacity>
-          ),
-        }}
-      />
-    </Stack>
+    <ClerkProvider
+      publishableKey={CLERK_PUBLISHABLE_KEY}
+      tokenCache={tokenCache}
+    >
+      <ClerkLoaded>
+        <InitialLayout />
+      </ClerkLoaded>
+    </ClerkProvider>
   );
 }
