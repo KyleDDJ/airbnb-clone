@@ -30,7 +30,6 @@ const ExploreHeader: React.FC<Props> = ({ onCategoryChanged }) => {
   };
 
   return (
-    // <SafeAreaView className={defaultContainerStyle}>
     <View className={containerStyle}>
       <View className={actionRow}>
         <Link href="/(modals)/booking" asChild>
@@ -75,7 +74,7 @@ const ExploreHeader: React.FC<Props> = ({ onCategoryChanged }) => {
             <MaterialIcons
               name={item.icon as any}
               size={24}
-              color={active_index === index ? Colors.dark : Colors.grey}
+              color={active_index === index ? Colors.primary : Colors.grey}
             />
             <Text
               className={
@@ -88,7 +87,6 @@ const ExploreHeader: React.FC<Props> = ({ onCategoryChanged }) => {
         ))}
       </ScrollView>
     </View>
-    // </SafeAreaView>
   );
 };
 
@@ -99,9 +97,9 @@ const searchButton =
   "flex-row items-center gap-3 bg-white flex-1 border border-gray-300 rounded-full px-4 py-4 shadow-lg shadow-gray-900";
 const actionButton = "ml-3 p-3 rounded-full border border-dark";
 const categoryText = "text-gray-500 text-base";
-const activeCategoryText = "text-dark font-bold text-base";
+const activeCategoryText = "text-primary font-bold text-base";
 const categoriesButton = "flex-1 align-center items-center justify-center pb-2";
 const activeCategoriesButton =
-  "flex-1 align-center items-center justify-center border-b-2 border-dark pb-2";
+  "flex-1 align-center items-center justify-center border-b-2 border-primary pb-2";
 
 export default ExploreHeader;
